@@ -1,0 +1,15 @@
+D:\Code\PRN222\ReviewCSharp\ReviewCSharp\bin\Debug\net8.0\ReviewCSharp.exe
+D:\Code\PRN222\ReviewCSharp\ReviewCSharp\bin\Debug\net8.0\ReviewCSharp.deps.json
+D:\Code\PRN222\ReviewCSharp\ReviewCSharp\bin\Debug\net8.0\ReviewCSharp.runtimeconfig.json
+D:\Code\PRN222\ReviewCSharp\ReviewCSharp\bin\Debug\net8.0\ReviewCSharp.dll
+D:\Code\PRN222\ReviewCSharp\ReviewCSharp\bin\Debug\net8.0\ReviewCSharp.pdb
+D:\Code\PRN222\ReviewCSharp\ReviewCSharp\obj\Debug\net8.0\ReviewCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\PRN222\ReviewCSharp\ReviewCSharp\obj\Debug\net8.0\ReviewCSharp.AssemblyInfoInputs.cache
+D:\Code\PRN222\ReviewCSharp\ReviewCSharp\obj\Debug\net8.0\ReviewCSharp.AssemblyInfo.cs
+D:\Code\PRN222\ReviewCSharp\ReviewCSharp\obj\Debug\net8.0\ReviewCSharp.csproj.CoreCompileInputs.cache
+D:\Code\PRN222\ReviewCSharp\ReviewCSharp\obj\Debug\net8.0\ReviewCSharp.sourcelink.json
+D:\Code\PRN222\ReviewCSharp\ReviewCSharp\obj\Debug\net8.0\ReviewCSharp.dll
+D:\Code\PRN222\ReviewCSharp\ReviewCSharp\obj\Debug\net8.0\refint\ReviewCSharp.dll
+D:\Code\PRN222\ReviewCSharp\ReviewCSharp\obj\Debug\net8.0\ReviewCSharp.pdb
+D:\Code\PRN222\ReviewCSharp\ReviewCSharp\obj\Debug\net8.0\ReviewCSharp.genruntimeconfig.cache
+D:\Code\PRN222\ReviewCSharp\ReviewCSharp\obj\Debug\net8.0\ref\ReviewCSharp.dll
