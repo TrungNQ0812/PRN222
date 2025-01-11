@@ -1,1 +1,1 @@
-This is project begin of Advanced Cross-Platform Application Programming With .NET (PRN222). Use TCP to practice programing both client and server connnect.
+This is project begin of Advanced Cross-Platform Application Programming With .NET (PRN222). Use TCP protocol to practice programing both client and server connnect.
