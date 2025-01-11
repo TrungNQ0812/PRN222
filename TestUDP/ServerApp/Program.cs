@@ -25,15 +25,22 @@ namespace ServerApp
                 {
                     Console.WriteLine("Waiting for broadcast");
                     byte[] bytes = listener.Receive(ref remoteEndpoint);
-
+                    message = Encoding.ASCII.GetString(bytes, 0, bytes.Length);
+                    Console.WriteLine($"Received broadcast from {remoteEndpoint} : {message}");
                 }
+            }catch (SocketException SE) {
+                Console.WriteLine(SE.Message);
+            }
+            finally
+            {
+                listener.Close();
             }
 
         }
 
         static void Main(string[] args)
         {
-            
+            Thread thread = new Thread(new ThreadStart(StartListener));
         }
     }
 }
