@@ -11,6 +11,7 @@
             }
             return sum;
         }//End of DoComputation
+
         static void Main(string[] args)
         {
             Task<double>[] taskArray =

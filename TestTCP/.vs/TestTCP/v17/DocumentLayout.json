@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Code\\PRN222\\TestTCP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9A9929A-74C1-4605-ABDD-C816C51F9AC4}|ServerApp\\ServerApp.csproj|D:\\Code\\PRN222\\TestTCP\\serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9A9929A-74C1-4605-ABDD-C816C51F9AC4}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D92ECE4B-F67D-46C5-B32C-E8F2456B7887}|ClientApp\\ClientApp.csproj|d:\\code\\prn222\\testtcp\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D92ECE4B-F67D-46C5-B32C-E8F2456B7887}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A9929A-74C1-4605-ABDD-C816C51F9AC4}|ServerApp\\ServerApp.csproj|D:\\Code\\PRN222\\TestTCP\\serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A9929A-74C1-4605-ABDD-C816C51F9AC4}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,29 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\TestTCP\\ClientApp\\Program.cs",
               "RelativeDocumentMoniker": "ClientApp\\Program.cs",
               "ToolTip": "D:\\Code\\PRN222\\TestTCP\\ClientApp\\Program.cs",
               "RelativeToolTip": "ClientApp\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAIwBsAAAALAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCUAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T09:04:35.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\TestTCP\\ServerApp\\Program.cs",
               "RelativeDocumentMoniker": "ServerApp\\Program.cs",
               "ToolTip": "D:\\Code\\PRN222\\TestTCP\\ServerApp\\Program.cs",
               "RelativeToolTip": "ServerApp\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAADwv0wAAAAbAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAmwEYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T09:03:41.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T09:03:41.435Z"
             }
           ]
         }

@@ -1,0 +1,15 @@
+D:\Code\PRN222\Use_PLINQ_Demonstration\Use_PLINQ_Demonstration_2\bin\Debug\net8.0\Use_PLINQ_Demonstration_2.exe
+D:\Code\PRN222\Use_PLINQ_Demonstration\Use_PLINQ_Demonstration_2\bin\Debug\net8.0\Use_PLINQ_Demonstration_2.deps.json
+D:\Code\PRN222\Use_PLINQ_Demonstration\Use_PLINQ_Demonstration_2\bin\Debug\net8.0\Use_PLINQ_Demonstration_2.runtimeconfig.json
+D:\Code\PRN222\Use_PLINQ_Demonstration\Use_PLINQ_Demonstration_2\bin\Debug\net8.0\Use_PLINQ_Demonstration_2.dll
+D:\Code\PRN222\Use_PLINQ_Demonstration\Use_PLINQ_Demonstration_2\bin\Debug\net8.0\Use_PLINQ_Demonstration_2.pdb
+D:\Code\PRN222\Use_PLINQ_Demonstration\Use_PLINQ_Demonstration_2\obj\Debug\net8.0\Use_PLINQ_Demonstration_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\PRN222\Use_PLINQ_Demonstration\Use_PLINQ_Demonstration_2\obj\Debug\net8.0\Use_PLINQ_Demonstration_2.AssemblyInfoInputs.cache
+D:\Code\PRN222\Use_PLINQ_Demonstration\Use_PLINQ_Demonstration_2\obj\Debug\net8.0\Use_PLINQ_Demonstration_2.AssemblyInfo.cs
+D:\Code\PRN222\Use_PLINQ_Demonstration\Use_PLINQ_Demonstration_2\obj\Debug\net8.0\Use_PLINQ_Demonstration_2.csproj.CoreCompileInputs.cache
+D:\Code\PRN222\Use_PLINQ_Demonstration\Use_PLINQ_Demonstration_2\obj\Debug\net8.0\Use_PLINQ_Demonstration_2.sourcelink.json
+D:\Code\PRN222\Use_PLINQ_Demonstration\Use_PLINQ_Demonstration_2\obj\Debug\net8.0\Use_PLINQ_Demonstration_2.dll
+D:\Code\PRN222\Use_PLINQ_Demonstration\Use_PLINQ_Demonstration_2\obj\Debug\net8.0\refint\Use_PLINQ_Demonstration_2.dll
+D:\Code\PRN222\Use_PLINQ_Demonstration\Use_PLINQ_Demonstration_2\obj\Debug\net8.0\Use_PLINQ_Demonstration_2.pdb
+D:\Code\PRN222\Use_PLINQ_Demonstration\Use_PLINQ_Demonstration_2\obj\Debug\net8.0\Use_PLINQ_Demonstration_2.genruntimeconfig.cache
+D:\Code\PRN222\Use_PLINQ_Demonstration\Use_PLINQ_Demonstration_2\obj\Debug\net8.0\ref\Use_PLINQ_Demonstration_2.dll

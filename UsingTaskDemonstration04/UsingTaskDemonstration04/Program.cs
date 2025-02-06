@@ -9,19 +9,21 @@
             var token = source.Token;
             int completeIterations = 0;
 
-            for (int n = 0; n <= 20; n++)
+            for (int n = 1; n <= 20; n++)
             {
                 tasks.Add(Task.Run(() =>
                 {
                     int iterations = 0;
-                    for (int ctr = 1; ctr <= 2_000_000; ctr++)
+                    for (int ctr = 1; ctr <= 2000; ctr++)
                     {
                         token.ThrowIfCancellationRequested();
                         iterations++;
                     }
                     Interlocked.Increment(ref completeIterations);
                     if (completeIterations >= 10)
-                    source.Cancel();
+                    {
+                        source.Cancel();
+                    }
 
                     return iterations;
                 }, token));
@@ -32,7 +34,7 @@
             {
                 Task.WaitAll(tasks.ToArray());
             }
-            catch (AggregateException)
+            catch (AggregateException ex)
             {
                 Console.WriteLine("Status of tasks: \n");
                 Console.WriteLine("{0,10} {1,12} {2,14:N0}", "Task Id", "Status", "Iterations");

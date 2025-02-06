@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Code\\PRN222\\TestUDP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC627BFD-E2BC-4F64-981B-A07877ADB606}|ClientApp\\ClientApp.csproj|D:\\Code\\PRN222\\TestUDP\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC627BFD-E2BC-4F64-981B-A07877ADB606}|ClientApp\\ClientApp.csproj|d:\\code\\prn222\\testudp\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC627BFD-E2BC-4F64-981B-A07877ADB606}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{464B91F5-D332-4334-A0DA-A9ECBFB595A3}|ServerApp\\ServerApp.csproj|d:\\code\\prn222\\testudp\\serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{464B91F5-D332-4334-A0DA-A9ECBFB595A3}|ServerApp\\ServerApp.csproj|D:\\Code\\PRN222\\TestUDP\\serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{464B91F5-D332-4334-A0DA-A9ECBFB595A3}|ServerApp\\ServerApp.csproj|solutionrelative:serverapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -55,8 +55,7 @@
               "RelativeToolTip": "ServerApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T10:08:43.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T10:08:43.383Z"
             }
           ]
         }
