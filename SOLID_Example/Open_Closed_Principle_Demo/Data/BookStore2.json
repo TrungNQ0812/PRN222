@@ -1,0 +1,12 @@
+﻿[
+  {
+    "Title": "Mastering C# and .NET Programming",
+    "Author": "Rajesh Gunasundaram",
+    "Price": 54.99
+  },
+  {
+    "Title": "F# Programming",
+    "Author": "Ricado Peres",
+    "Price": 50.99
+  }
+]

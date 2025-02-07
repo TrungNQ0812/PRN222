@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\PRN222\\SOLID_Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58CE74E4-6CCD-4FF1-B49F-7EC727E4A7D9}|Open_Closed_Principle_Demo\\Open_Closed_Principle_Demo.csproj|d:\\code\\prn222\\solid_example\\open_closed_principle_demo\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CE74E4-6CCD-4FF1-B49F-7EC727E4A7D9}|Open_Closed_Principle_Demo\\Open_Closed_Principle_Demo.csproj|solutionrelative:open_closed_principle_demo\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CE74E4-6CCD-4FF1-B49F-7EC727E4A7D9}|Open_Closed_Principle_Demo\\Open_Closed_Principle_Demo.csproj|d:\\code\\prn222\\solid_example\\open_closed_principle_demo\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CE74E4-6CCD-4FF1-B49F-7EC727E4A7D9}|Open_Closed_Principle_Demo\\Open_Closed_Principle_Demo.csproj|solutionrelative:open_closed_principle_demo\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CE74E4-6CCD-4FF1-B49F-7EC727E4A7D9}|Open_Closed_Principle_Demo\\Open_Closed_Principle_Demo.csproj|d:\\code\\prn222\\solid_example\\open_closed_principle_demo\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CE74E4-6CCD-4FF1-B49F-7EC727E4A7D9}|Open_Closed_Principle_Demo\\Open_Closed_Principle_Demo.csproj|solutionrelative:open_closed_principle_demo\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CE74E4-6CCD-4FF1-B49F-7EC727E4A7D9}|Open_Closed_Principle_Demo\\Open_Closed_Principle_Demo.csproj|d:\\code\\prn222\\solid_example\\open_closed_principle_demo\\data\\bookstore2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58CE74E4-6CCD-4FF1-B49F-7EC727E4A7D9}|Open_Closed_Principle_Demo\\Open_Closed_Principle_Demo.csproj|solutionrelative:open_closed_principle_demo\\data\\bookstore2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CE74E4-6CCD-4FF1-B49F-7EC727E4A7D9}|Open_Closed_Principle_Demo\\Open_Closed_Principle_Demo.csproj|d:\\code\\prn222\\solid_example\\open_closed_principle_demo\\data\\bookstore1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58CE74E4-6CCD-4FF1-B49F-7EC727E4A7D9}|Open_Closed_Principle_Demo\\Open_Closed_Principle_Demo.csproj|solutionrelative:open_closed_principle_demo\\data\\bookstore1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CE74E4-6CCD-4FF1-B49F-7EC727E4A7D9}|Open_Closed_Principle_Demo\\Open_Closed_Principle_Demo.csproj|d:\\code\\prn222\\solid_example\\open_closed_principle_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CE74E4-6CCD-4FF1-B49F-7EC727E4A7D9}|Open_Closed_Principle_Demo\\Open_Closed_Principle_Demo.csproj|solutionrelative:open_closed_principle_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456F22A1-A445-459D-A9BC-9D226E18A5CE}|Single_Responsibility_Principle_Demo\\Single_Responsibility_Principle_Demo.csproj|d:\\code\\prn222\\solid_example\\single_responsibility_principle_demo\\data\\bookstore.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{456F22A1-A445-459D-A9BC-9D226E18A5CE}|Single_Responsibility_Principle_Demo\\Single_Responsibility_Principle_Demo.csproj|solutionrelative:single_responsibility_principle_demo\\data\\bookstore.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456F22A1-A445-459D-A9BC-9D226E18A5CE}|Single_Responsibility_Principle_Demo\\Single_Responsibility_Principle_Demo.csproj|d:\\code\\prn222\\solid_example\\single_responsibility_principle_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456F22A1-A445-459D-A9BC-9D226E18A5CE}|Single_Responsibility_Principle_Demo\\Single_Responsibility_Principle_Demo.csproj|solutionrelative:single_responsibility_principle_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456F22A1-A445-459D-A9BC-9D226E18A5CE}|Single_Responsibility_Principle_Demo\\Single_Responsibility_Principle_Demo.csproj|d:\\code\\prn222\\solid_example\\single_responsibility_principle_demo\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456F22A1-A445-459D-A9BC-9D226E18A5CE}|Single_Responsibility_Principle_Demo\\Single_Responsibility_Principle_Demo.csproj|solutionrelative:single_responsibility_principle_demo\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456F22A1-A445-459D-A9BC-9D226E18A5CE}|Single_Responsibility_Principle_Demo\\Single_Responsibility_Principle_Demo.csproj|d:\\code\\prn222\\solid_example\\single_responsibility_principle_demo\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456F22A1-A445-459D-A9BC-9D226E18A5CE}|Single_Responsibility_Principle_Demo\\Single_Responsibility_Principle_Demo.csproj|solutionrelative:single_responsibility_principle_demo\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\SOLID_Example\\Open_Closed_Principle_Demo\\Utilities\\Utilities.cs",
+              "RelativeDocumentMoniker": "Open_Closed_Principle_Demo\\Utilities\\Utilities.cs",
+              "ToolTip": "D:\\Code\\PRN222\\SOLID_Example\\Open_Closed_Principle_Demo\\Utilities\\Utilities.cs",
+              "RelativeToolTip": "Open_Closed_Principle_Demo\\Utilities\\Utilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:13:05.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\SOLID_Example\\Open_Closed_Principle_Demo\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "Open_Closed_Principle_Demo\\Model\\Book.cs",
+              "ToolTip": "D:\\Code\\PRN222\\SOLID_Example\\Open_Closed_Principle_Demo\\Model\\Book.cs",
+              "RelativeToolTip": "Open_Closed_Principle_Demo\\Model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:12:49.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\SOLID_Example\\Open_Closed_Principle_Demo\\Model\\IBook.cs",
+              "RelativeDocumentMoniker": "Open_Closed_Principle_Demo\\Model\\IBook.cs",
+              "ToolTip": "D:\\Code\\PRN222\\SOLID_Example\\Open_Closed_Principle_Demo\\Model\\IBook.cs",
+              "RelativeToolTip": "Open_Closed_Principle_Demo\\Model\\IBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:12:36.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookStore2.json",
+              "DocumentMoniker": "D:\\Code\\PRN222\\SOLID_Example\\Open_Closed_Principle_Demo\\Data\\BookStore2.json",
+              "RelativeDocumentMoniker": "Open_Closed_Principle_Demo\\Data\\BookStore2.json",
+              "ToolTip": "D:\\Code\\PRN222\\SOLID_Example\\Open_Closed_Principle_Demo\\Data\\BookStore2.json",
+              "RelativeToolTip": "Open_Closed_Principle_Demo\\Data\\BookStore2.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T09:12:19.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookStore1.json",
+              "DocumentMoniker": "D:\\Code\\PRN222\\SOLID_Example\\Open_Closed_Principle_Demo\\Data\\BookStore1.json",
+              "RelativeDocumentMoniker": "Open_Closed_Principle_Demo\\Data\\BookStore1.json",
+              "ToolTip": "D:\\Code\\PRN222\\SOLID_Example\\Open_Closed_Principle_Demo\\Data\\BookStore1.json",
+              "RelativeToolTip": "Open_Closed_Principle_Demo\\Data\\BookStore1.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T09:12:08.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\SOLID_Example\\Open_Closed_Principle_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Open_Closed_Principle_Demo\\Program.cs",
+              "ToolTip": "D:\\Code\\PRN222\\SOLID_Example\\Open_Closed_Principle_Demo\\Program.cs",
+              "RelativeToolTip": "Open_Closed_Principle_Demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:10:58.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\SOLID_Example\\Single_Responsibility_Principle_Demo\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "Single_Responsibility_Principle_Demo\\Model\\Book.cs",
+              "ToolTip": "D:\\Code\\PRN222\\SOLID_Example\\Single_Responsibility_Principle_Demo\\Model\\Book.cs",
+              "RelativeToolTip": "Single_Responsibility_Principle_Demo\\Model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T08:53:52.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\SOLID_Example\\Single_Responsibility_Principle_Demo\\Model\\IBook.cs",
+              "RelativeDocumentMoniker": "Single_Responsibility_Principle_Demo\\Model\\IBook.cs",
+              "ToolTip": "D:\\Code\\PRN222\\SOLID_Example\\Single_Responsibility_Principle_Demo\\Model\\IBook.cs",
+              "RelativeToolTip": "Single_Responsibility_Principle_Demo\\Model\\IBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T08:52:48.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookStore.json",
+              "DocumentMoniker": "D:\\Code\\PRN222\\SOLID_Example\\Single_Responsibility_Principle_Demo\\Data\\BookStore.json",
+              "RelativeDocumentMoniker": "Single_Responsibility_Principle_Demo\\Data\\BookStore.json",
+              "ToolTip": "D:\\Code\\PRN222\\SOLID_Example\\Single_Responsibility_Principle_Demo\\Data\\BookStore.json",
+              "RelativeToolTip": "Single_Responsibility_Principle_Demo\\Data\\BookStore.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T08:51:49.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\SOLID_Example\\Single_Responsibility_Principle_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Single_Responsibility_Principle_Demo\\Program.cs",
+              "ToolTip": "D:\\Code\\PRN222\\SOLID_Example\\Single_Responsibility_Principle_Demo\\Program.cs",
+              "RelativeToolTip": "Single_Responsibility_Principle_Demo\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T08:50:06.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

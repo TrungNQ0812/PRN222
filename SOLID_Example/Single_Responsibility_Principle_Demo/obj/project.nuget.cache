@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1t+OLN/XTOlh4s98QvlBR6bd+MGxATPhShgLQ08MahpKm29WT2TklcQmsb8hHEnB2jqST4TIX5Y4Ueyqo8Ifjg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\PRN222\\SOLID_Example\\Single_Responsibility_Principle_Demo\\Single_Responsibility_Principle_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trung\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
