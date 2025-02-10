@@ -6,6 +6,7 @@ namespace IoC_Pattern_Demo
 {
     public class ReaderFactory
     {
+        public IMovieReader _IMovieReader { get; }
 
     }
     class Program

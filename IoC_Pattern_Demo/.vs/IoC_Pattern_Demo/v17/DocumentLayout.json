@@ -110,8 +110,7 @@
               "RelativeToolTip": "IoC_Pattern_Demo\\Data\\MovieDB.xml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-02-07T09:45:45.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T09:45:45.415Z"
             },
             {
               "$type": "Document",
@@ -123,8 +122,7 @@
               "RelativeToolTip": "IoC_Pattern_Demo\\Data\\MovieDB.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-07T09:45:24.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T09:45:24.485Z"
             },
             {
               "$type": "Document",
@@ -134,7 +132,7 @@
               "RelativeDocumentMoniker": "IoC_Pattern_Demo\\Program.cs",
               "ToolTip": "D:\\Code\\PRN222\\IoC_Pattern_Demo\\IoC_Pattern_Demo\\Program.cs",
               "RelativeToolTip": "IoC_Pattern_Demo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T09:44:34.894Z",
               "EditorCaption": ""
