@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Open_Closed_Principle_Demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a39317d3f706a88c4e6aee855ed15f5b4d100d9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f102e929a2991c15c4b979bd5199f073b45bc6d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Open_Closed_Principle_Demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Open_Closed_Principle_Demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

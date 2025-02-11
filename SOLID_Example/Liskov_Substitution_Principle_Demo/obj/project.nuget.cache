@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oxr/axALjybawEjmYaspvi4UY0i4ZidIq61M1IxZ9Rgmh51DQ2jR1xXcf0BquxgEVlg5qZljt9uMkO3leUp/Ng==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\PRN222\\SOLID_Example\\Liskov_Substitution_Principle_Demo\\Liskov_Substitution_Principle_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trung\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

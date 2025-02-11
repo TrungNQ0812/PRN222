@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "clVk2gI1Uf+cuSHDgciHOP+L4xtS22vfZV8RSpZU4gvS8d4MSsgONLwbYnsRdOeiWWoyljMTsjus0YtiMDLE6A==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\PRN222\\SOLID_Example\\Interface_Segregation_Principle_Demo\\Interface_Segregation_Principle_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trung\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

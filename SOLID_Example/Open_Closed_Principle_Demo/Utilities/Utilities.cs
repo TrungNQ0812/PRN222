@@ -19,7 +19,7 @@ namespace Open_Closed_Principle_Demo.Utilities
         //-----------------------------------------------------------------
          internal static List<Book> ReadData()
         {
-            var cadJSON = ReadFile("D:/Code/PRN222/SOLID_Example/Open_Closed_Principle_DemoData/BookStore2.json");
+            var cadJSON = ReadFile("D:/Code/PRN222/SOLID_Example/Open_Closed_Principle_Demo/Data/BookStore2.json");
             return JsonConvert.DeserializeObject<List<Book>>(cadJSON);
         }
 
@@ -27,7 +27,7 @@ namespace Open_Closed_Principle_Demo.Utilities
          internal static List<Book> ReadDataExtra()
         {
             List<Book> books = ReadData();
-            var cadJSON = ReadFile("D:/Code/PRN222/SOLID_Example/Open_Closed_Principle_DemoData/Data/BookStore2.json");
+            var cadJSON = ReadFile("D:/Code/PRN222/SOLID_Example/Open_Closed_Principle_Demo/Data/BookStore2.json");
             books.AddRange(JsonConvert.DeserializeObject<List<Book>>(cadJSON));
             return books;
         }

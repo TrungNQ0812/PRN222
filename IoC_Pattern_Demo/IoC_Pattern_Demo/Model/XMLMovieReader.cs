@@ -9,8 +9,8 @@ namespace IoC_Pattern_Demo.Model
 {
     internal class XMLMovieReader : IMovieReader
     {
-        static string url = @"Data\";
-        static XDocument films = XDocument.Load(url + "MoviesDB.xml");
+        static string url = "D:/Code/PRN222/IoC_Pattern_Demo/IoC_Pattern_Demo/Data/";
+        static XDocument films = XDocument.Load(url + "MovieDB.xml");
         static List<Movie> movies = new List<Movie>();
         public List<Movie> ReadMovies()
         {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IoC_Pattern_Demo.Model
 {
-    internal interface IMovieReader
+    public interface IMovieReader
     {
         List<Movie> ReadMovies();
     }
