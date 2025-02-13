@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S5XQEeasUgjsE+mqQzwgn9hdLw/22VW8opjUm8A1tpvdEekEK8SB9vh0QQ+SY0g3ng42f/znWO9cNQNLunXakQ==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\PRN222\\ServiceCollection_Class_Demo\\ServiceCollection_Class_Demo\\ServiceCollection_Class_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trung\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\trung\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

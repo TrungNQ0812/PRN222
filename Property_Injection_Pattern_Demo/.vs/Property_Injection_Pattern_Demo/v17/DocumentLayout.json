@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\PRN222\\Property_Injection_Pattern_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7F8A08-DCF4-446E-B9EB-2936971EE3A0}|Property_Injection_Pattern_Demo\\Property_Injection_Pattern_Demo.csproj|D:\\Code\\PRN222\\Property_Injection_Pattern_Demo\\property_injection_pattern_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7F8A08-DCF4-446E-B9EB-2936971EE3A0}|Property_Injection_Pattern_Demo\\Property_Injection_Pattern_Demo.csproj|solutionrelative:property_injection_pattern_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7F8A08-DCF4-446E-B9EB-2936971EE3A0}|Property_Injection_Pattern_Demo\\Property_Injection_Pattern_Demo.csproj|d:\\code\\prn222\\property_injection_pattern_demo\\property_injection_pattern_demo\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7F8A08-DCF4-446E-B9EB-2936971EE3A0}|Property_Injection_Pattern_Demo\\Property_Injection_Pattern_Demo.csproj|solutionrelative:property_injection_pattern_demo\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7F8A08-DCF4-446E-B9EB-2936971EE3A0}|Property_Injection_Pattern_Demo\\Property_Injection_Pattern_Demo.csproj|D:\\Code\\PRN222\\Property_Injection_Pattern_Demo\\property_injection_pattern_demo\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7F8A08-DCF4-446E-B9EB-2936971EE3A0}|Property_Injection_Pattern_Demo\\Property_Injection_Pattern_Demo.csproj|solutionrelative:property_injection_pattern_demo\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\Property_Injection_Pattern_Demo\\Property_Injection_Pattern_Demo\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Property_Injection_Pattern_Demo\\Model\\Employee.cs",
+              "ToolTip": "D:\\Code\\PRN222\\Property_Injection_Pattern_Demo\\Property_Injection_Pattern_Demo\\Model\\Employee.cs",
+              "RelativeToolTip": "Property_Injection_Pattern_Demo\\Model\\Employee.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wCgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:57:52.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\Property_Injection_Pattern_Demo\\Property_Injection_Pattern_Demo\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "Property_Injection_Pattern_Demo\\Model\\Department.cs",
+              "ToolTip": "D:\\Code\\PRN222\\Property_Injection_Pattern_Demo\\Property_Injection_Pattern_Demo\\Model\\Department.cs",
+              "RelativeToolTip": "Property_Injection_Pattern_Demo\\Model\\Department.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:57:42.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\Property_Injection_Pattern_Demo\\Property_Injection_Pattern_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Property_Injection_Pattern_Demo\\Program.cs",
+              "ToolTip": "D:\\Code\\PRN222\\Property_Injection_Pattern_Demo\\Property_Injection_Pattern_Demo\\Program.cs",
+              "RelativeToolTip": "Property_Injection_Pattern_Demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:56:18.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

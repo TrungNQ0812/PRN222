@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U+opjL9tGevbYLxTOVbfyOJq+ZyKVWvNkNvtK8+0kM88YnMgLhQWWKg4L4qAQYx3OG9Gt6SkCboVTPQEeNuvdg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\PRN222\\Constructor_Injection_Pattern_Demo\\Constructor_Injection_Pattern_Demo\\Constructor_Injection_Pattern_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trung\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\trung\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

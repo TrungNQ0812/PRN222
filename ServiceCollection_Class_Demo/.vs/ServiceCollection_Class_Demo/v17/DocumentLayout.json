@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\PRN222\\ServiceCollection_Class_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7D3201-9D09-4B7E-9853-BE2729865B0A}|ServiceCollection_Class_Demo\\ServiceCollection_Class_Demo.csproj|d:\\code\\prn222\\servicecollection_class_demo\\servicecollection_class_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7D3201-9D09-4B7E-9853-BE2729865B0A}|ServiceCollection_Class_Demo\\ServiceCollection_Class_Demo.csproj|solutionrelative:servicecollection_class_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7D3201-9D09-4B7E-9853-BE2729865B0A}|ServiceCollection_Class_Demo\\ServiceCollection_Class_Demo.csproj|d:\\code\\prn222\\servicecollection_class_demo\\servicecollection_class_demo\\model\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7D3201-9D09-4B7E-9853-BE2729865B0A}|ServiceCollection_Class_Demo\\ServiceCollection_Class_Demo.csproj|solutionrelative:servicecollection_class_demo\\model\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7D3201-9D09-4B7E-9853-BE2729865B0A}|ServiceCollection_Class_Demo\\ServiceCollection_Class_Demo.csproj|d:\\code\\prn222\\servicecollection_class_demo\\servicecollection_class_demo\\model\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7D3201-9D09-4B7E-9853-BE2729865B0A}|ServiceCollection_Class_Demo\\ServiceCollection_Class_Demo.csproj|solutionrelative:servicecollection_class_demo\\model\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Writer.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ServiceCollection_Class_Demo\\ServiceCollection_Class_Demo\\Model\\Writer.cs",
+              "RelativeDocumentMoniker": "ServiceCollection_Class_Demo\\Model\\Writer.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ServiceCollection_Class_Demo\\ServiceCollection_Class_Demo\\Model\\Writer.cs",
+              "RelativeToolTip": "ServiceCollection_Class_Demo\\Model\\Writer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T20:59:03.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWriter.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ServiceCollection_Class_Demo\\ServiceCollection_Class_Demo\\Model\\IWriter.cs",
+              "RelativeDocumentMoniker": "ServiceCollection_Class_Demo\\Model\\IWriter.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ServiceCollection_Class_Demo\\ServiceCollection_Class_Demo\\Model\\IWriter.cs",
+              "RelativeToolTip": "ServiceCollection_Class_Demo\\Model\\IWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T20:58:50.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ServiceCollection_Class_Demo\\ServiceCollection_Class_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceCollection_Class_Demo\\Program.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ServiceCollection_Class_Demo\\ServiceCollection_Class_Demo\\Program.cs",
+              "RelativeToolTip": "ServiceCollection_Class_Demo\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA4wCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T20:57:37.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

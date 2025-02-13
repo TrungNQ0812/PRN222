@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Property_Injection_Pattern_Demo", "Property_Injection_Pattern_Demo\Property_Injection_Pattern_Demo.csproj", "{4B7F8A08-DCF4-446E-B9EB-2936971EE3A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B7F8A08-DCF4-446E-B9EB-2936971EE3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7F8A08-DCF4-446E-B9EB-2936971EE3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7F8A08-DCF4-446E-B9EB-2936971EE3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B7F8A08-DCF4-446E-B9EB-2936971EE3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DE6CBD5-AACB-4D10-B08A-A70D3185AE85}
+	EndGlobalSection
+EndGlobal

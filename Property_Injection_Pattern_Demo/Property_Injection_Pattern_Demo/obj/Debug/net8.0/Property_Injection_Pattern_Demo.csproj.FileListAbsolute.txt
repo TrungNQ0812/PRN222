@@ -1,0 +1,15 @@
+D:\Code\PRN222\Property_Injection_Pattern_Demo\Property_Injection_Pattern_Demo\bin\Debug\net8.0\Property_Injection_Pattern_Demo.exe
+D:\Code\PRN222\Property_Injection_Pattern_Demo\Property_Injection_Pattern_Demo\bin\Debug\net8.0\Property_Injection_Pattern_Demo.deps.json
+D:\Code\PRN222\Property_Injection_Pattern_Demo\Property_Injection_Pattern_Demo\bin\Debug\net8.0\Property_Injection_Pattern_Demo.runtimeconfig.json
+D:\Code\PRN222\Property_Injection_Pattern_Demo\Property_Injection_Pattern_Demo\bin\Debug\net8.0\Property_Injection_Pattern_Demo.dll
+D:\Code\PRN222\Property_Injection_Pattern_Demo\Property_Injection_Pattern_Demo\bin\Debug\net8.0\Property_Injection_Pattern_Demo.pdb
+D:\Code\PRN222\Property_Injection_Pattern_Demo\Property_Injection_Pattern_Demo\obj\Debug\net8.0\Property_Injection_Pattern_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\PRN222\Property_Injection_Pattern_Demo\Property_Injection_Pattern_Demo\obj\Debug\net8.0\Property_Injection_Pattern_Demo.AssemblyInfoInputs.cache
+D:\Code\PRN222\Property_Injection_Pattern_Demo\Property_Injection_Pattern_Demo\obj\Debug\net8.0\Property_Injection_Pattern_Demo.AssemblyInfo.cs
+D:\Code\PRN222\Property_Injection_Pattern_Demo\Property_Injection_Pattern_Demo\obj\Debug\net8.0\Property_Injection_Pattern_Demo.csproj.CoreCompileInputs.cache
+D:\Code\PRN222\Property_Injection_Pattern_Demo\Property_Injection_Pattern_Demo\obj\Debug\net8.0\Property_Injection_Pattern_Demo.sourcelink.json
+D:\Code\PRN222\Property_Injection_Pattern_Demo\Property_Injection_Pattern_Demo\obj\Debug\net8.0\Property_Injection_Pattern_Demo.dll
+D:\Code\PRN222\Property_Injection_Pattern_Demo\Property_Injection_Pattern_Demo\obj\Debug\net8.0\refint\Property_Injection_Pattern_Demo.dll
+D:\Code\PRN222\Property_Injection_Pattern_Demo\Property_Injection_Pattern_Demo\obj\Debug\net8.0\Property_Injection_Pattern_Demo.pdb
+D:\Code\PRN222\Property_Injection_Pattern_Demo\Property_Injection_Pattern_Demo\obj\Debug\net8.0\Property_Injection_Pattern_Demo.genruntimeconfig.cache
+D:\Code\PRN222\Property_Injection_Pattern_Demo\Property_Injection_Pattern_Demo\obj\Debug\net8.0\ref\Property_Injection_Pattern_Demo.dll
