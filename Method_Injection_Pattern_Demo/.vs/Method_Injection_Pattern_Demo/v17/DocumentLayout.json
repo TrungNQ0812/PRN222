@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{91BB6DCC-4104-4438-B4A0-BE50A30F301D}|Method_Injection_Pattern_Demo\\Method_Injection_Pattern_Demo.csproj|solutionrelative:method_injection_pattern_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91BB6DCC-4104-4438-B4A0-BE50A30F301D}|Method_Injection_Pattern_Demo\\Method_Injection_Pattern_Demo.csproj|d:\\code\\prn222\\method_injection_pattern_demo\\method_injection_pattern_demo\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91BB6DCC-4104-4438-B4A0-BE50A30F301D}|Method_Injection_Pattern_Demo\\Method_Injection_Pattern_Demo.csproj|D:\\Code\\PRN222\\Method_Injection_Pattern_Demo\\method_injection_pattern_demo\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91BB6DCC-4104-4438-B4A0-BE50A30F301D}|Method_Injection_Pattern_Demo\\Method_Injection_Pattern_Demo.csproj|solutionrelative:method_injection_pattern_demo\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91BB6DCC-4104-4438-B4A0-BE50A30F301D}|Method_Injection_Pattern_Demo\\Method_Injection_Pattern_Demo.csproj|d:\\code\\prn222\\method_injection_pattern_demo\\method_injection_pattern_demo\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91BB6DCC-4104-4438-B4A0-BE50A30F301D}|Method_Injection_Pattern_Demo\\Method_Injection_Pattern_Demo.csproj|D:\\Code\\PRN222\\Method_Injection_Pattern_Demo\\method_injection_pattern_demo\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91BB6DCC-4104-4438-B4A0-BE50A30F301D}|Method_Injection_Pattern_Demo\\Method_Injection_Pattern_Demo.csproj|solutionrelative:method_injection_pattern_demo\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
@@ -35,6 +35,14 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
@@ -46,8 +54,7 @@
               "RelativeToolTip": "Method_Injection_Pattern_Demo\\Model\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T18:44:44.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T18:44:44.164Z"
             },
             {
               "$type": "Document",
@@ -59,8 +66,7 @@
               "RelativeToolTip": "Method_Injection_Pattern_Demo\\Model\\Department.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T18:44:30.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T18:44:30.802Z"
             },
             {
               "$type": "Document",
@@ -68,9 +74,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\Method_Injection_Pattern_Demo\\Method_Injection_Pattern_Demo\\Program.cs",
               "RelativeDocumentMoniker": "Method_Injection_Pattern_Demo\\Program.cs",
-              "ToolTip": "D:\\Code\\PRN222\\Method_Injection_Pattern_Demo\\Method_Injection_Pattern_Demo\\Program.cs",
-              "RelativeToolTip": "Method_Injection_Pattern_Demo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "ToolTip": "D:\\Code\\PRN222\\Method_Injection_Pattern_Demo\\Method_Injection_Pattern_Demo\\Program.cs*",
+              "RelativeToolTip": "Method_Injection_Pattern_Demo\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T18:39:08.862Z",
               "EditorCaption": ""

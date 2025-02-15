@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cMLkDH9fzelK801v+x4Aniz15rl1PmnsQnou4yc3dbeeQMS0bW6wLWpdcbOK/pQxcLr2KpMCoTpeZUnaw9wx0g==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\PRN222\\DI_Ambient_Context_Demo\\DI_Ambient_Context_Demo\\DI_Ambient_Context_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trung\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\trung\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
