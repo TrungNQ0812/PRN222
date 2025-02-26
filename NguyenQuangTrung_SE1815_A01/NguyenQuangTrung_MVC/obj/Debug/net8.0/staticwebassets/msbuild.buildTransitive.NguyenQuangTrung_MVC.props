@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NguyenQuangTrung_MVC.props" />
+</Project>
