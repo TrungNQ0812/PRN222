@@ -47,6 +47,8 @@ namespace NguyenQuangTrung_MVC.Controllers
         [AuthorizeRole("0", "1")] // Admin and Staff
         public ActionResult Create()
         {
+            int nextId = articleRepo.NewsCount() + 1;
+            ViewBag.NewsID = nextId;
             ViewBag.CategoryId = categoryRepo.GetAllCategoryID();
             //ViewBag.CreatedById = HttpContext.Session.GetString("Email") == configuration["AdminAccount:AccountEmail"]
             //    ? configuration["AdminAccount:AccountID"]
@@ -65,20 +67,23 @@ namespace NguyenQuangTrung_MVC.Controllers
         [AuthorizeRole("0", "1")] // Admin and Staff
         public ActionResult Create(NewsArticle newsArticle)
         {
+
+            int nextId = articleRepo.NewsCount() + 1;
+            ViewBag.NewsID = nextId;
             ViewBag.CategoryId = categoryRepo.GetAllCategoryID();
             if (!ModelState.IsValid) // Kiểm tra lỗi nhập liệu
             {
                 ViewBag.CategoryId = categoryRepo.GetAllCategoryID();
                 return View(newsArticle); // Trả về form với lỗi
             }
-
+            var email = HttpContext.Session.GetString("Email");
             try
             {
                 // Gán ngày tạo và người tạo
                 newsArticle.CreatedDate = DateTime.Now;
                 newsArticle.NewsStatus = true;
                 //newsArticle.CreatedById = short.Parse(ViewBag.CreatedById.ToString());
-
+                //ViewBag.CreatedById = accountRepo.GetSystemAccountByEmail(email).AccountId;
                 // Lưu vào DB
                 articleRepo.Add(newsArticle);
                 return RedirectToAction("Index");
@@ -95,6 +100,7 @@ namespace NguyenQuangTrung_MVC.Controllers
         [AuthorizeRole("0", "1")] // Admin and Staff
         public ActionResult Edit(int id)
         {
+            ViewBag.CategoryId = categoryRepo.GetAllCategoryID();
             NewsArticle news = articleRepo.GetNewsById(id);
             return View(news);
         }
@@ -105,6 +111,7 @@ namespace NguyenQuangTrung_MVC.Controllers
         [AuthorizeRole("0", "1")] // Admin and Staff
         public ActionResult Edit(int id, NewsArticle newsArticle)
         {
+            ViewBag.CategoryId = categoryRepo.GetAllCategoryID();
             var existingArticle = articleRepo.GetNewsById(id);
             if (existingArticle == null)
             {

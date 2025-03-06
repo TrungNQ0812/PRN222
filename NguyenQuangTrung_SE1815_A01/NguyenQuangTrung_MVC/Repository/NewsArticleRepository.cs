@@ -48,5 +48,10 @@ namespace NguyenQuangTrung_MVC.Repository
             _context.SaveChanges();
         }
 
+
+        public int NewsCount()
+        {
+            return _context.NewsArticles.Count();
+        }
     }
 }

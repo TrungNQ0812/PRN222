@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using NguyenQuangTrung_MVC.DAL;
 using NguyenQuangTrung_MVC.Models;
 
@@ -19,6 +20,8 @@ namespace NguyenQuangTrung_MVC.Repository
             _context.SystemAccounts.Add(acc);
             _context.SaveChanges();
         }
+
+        
 
         public void DeleteAccount(int id)
         {
@@ -56,6 +59,15 @@ namespace NguyenQuangTrung_MVC.Repository
 
         }
 
+        public List<SelectListItem> GetAllAccountStatus()
+        {
+
+            return _context.SystemAccounts.Select(c => new SelectListItem
+            {
+                Value = c.AccountStatus.ToString(),
+                Text = c.AccountStatus.ToString()
+            }).ToList();
+        }
         public void UpdateAccount(SystemAccount acc)
         {
             _context.SystemAccounts.Update(acc);

@@ -40,6 +40,7 @@ namespace NguyenQuangTrung_MVC.Controllers
                 new SelectListItem { Value = "2", Text = "Lecturer" }
             };
             ViewBag.NextId = _accountRepo.GetAccountCount() + 1;
+            ViewBag.StatusList = _accountRepo.GetAllAccountStatus();
             return View();
         }
 
@@ -53,6 +54,8 @@ namespace NguyenQuangTrung_MVC.Controllers
                 new SelectListItem { Value = "1", Text = "Staff" },
                 new SelectListItem { Value = "2", Text = "Lecturer" }
             };
+            ViewBag.NextId = _accountRepo.GetAccountCount() + 1;
+            ViewBag.StatusList = _accountRepo.GetAllAccountStatus();
             if (!ModelState.IsValid)
             {
                 var errors = ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage);
@@ -71,17 +74,14 @@ namespace NguyenQuangTrung_MVC.Controllers
         // GET: AdminController/Edit/5
         public ActionResult Edit(int id)
         {
-            ViewBag.StatusList = new List<SelectListItem>
-            {
-                new SelectListItem { Value = "Activate", Text = "Activate" },
-                new SelectListItem { Value = "Deactivate", Text = "Deactivate" }
-            };
+            SystemAccount acc = _accountRepo.GetAccountById(id);
+            ViewBag.StatusList = _accountRepo.GetAllAccountStatus();
             ViewBag.RoleList = new List<SelectListItem>
             {
                 new SelectListItem { Value = "1", Text = "Staff" },
                 new SelectListItem { Value = "2", Text = "Lecturer" }
             };
-            return View();
+            return View(acc);
         }
 
         // POST: AdminController/Edit/5
@@ -89,18 +89,15 @@ namespace NguyenQuangTrung_MVC.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, SystemAccount acc)
         {
-            ViewBag.StatusList = new List<SelectListItem>
-            {
-                new SelectListItem { Value = "Activate", Text = "Activate" },
-                new SelectListItem { Value = "Deactivate", Text = "Deactivate" }
-            };
+            
+
+            var existingAccount = _accountRepo.GetAccountById(id);
+            ViewBag.StatusList = ViewBag.StatusList = _accountRepo.GetAllAccountStatus();
             ViewBag.RoleList = new List<SelectListItem>
             {
                 new SelectListItem { Value = "1", Text = "Staff" },
                 new SelectListItem { Value = "2", Text = "Lecturer" }
             };
-
-            var existingAccount = _accountRepo.GetAccountById(id);
             if (acc.AccountId == 0) 
             {
                 acc.AccountId = (short)id;
@@ -116,7 +113,7 @@ namespace NguyenQuangTrung_MVC.Controllers
             {
                 return View(acc);
             }
-
+            existingAccount.AccountId = acc.AccountId;
             existingAccount.AccountStatus = acc.AccountStatus;
             existingAccount.AccountEmail = acc.AccountEmail;
             existingAccount.AccountRole = acc.AccountRole;

@@ -1,0 +1,64 @@
+﻿<h3>CheckBlazorComponent</h3>
+
+@page "/todo"
+@rendermode InteractiveServer
+<PageTitle>Todo</PageTitle>
+
+<h1>Todo (@todos.Count(todo => !todo.isDone))</h1>
+
+<ul>
+    @foreach(var todo in todos){
+        <li>
+            <input type = "checkbox" @bind = "todo.isDone" />
+            <input @bind = "todo.title" />
+        </li>
+    }
+</ul>
+
+<input placeholder="something to do" @bind= "newTodo" />
+<button @onclick="AddTodo">Add to do</button>
+
+@code {
+    private List<TodoItem> todos = new();
+
+    private string? newTodo;
+
+    private void AddTodo()
+    {
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            todos.Add(new TodoItem {title = newTodo});
+            newTodo = string.Empty;
+        }
+    }   
+}
+
+
+@* <div class="nav-scrollable" onclick="document.querySelector('.navbar-toggle').click()">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="counter" >
+                <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Counter
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="weather">
+                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Weather
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="todo">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Todo
+            </NavLink>
+        </div>
+    </nav>
+</div> *@
+
