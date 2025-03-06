@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|d:\\code\\prn222\\razorpagewithentityframework\\razorpagewithentityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|solutionrelative:razorpagewithentityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|d:\\code\\prn222\\razorpagewithentityframework\\razorpagewithentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|solutionrelative:razorpagewithentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|d:\\code\\prn222\\razorpagewithentityframework\\razorpagewithentityframework\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|solutionrelative:razorpagewithentityframework\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|d:\\code\\prn222\\razorpagewithentityframework\\razorpagewithentityframework\\pages\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|solutionrelative:razorpagewithentityframework\\pages\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|d:\\code\\prn222\\razorpagewithentityframework\\razorpagewithentityframework\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|solutionrelative:razorpagewithentityframework\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|d:\\code\\prn222\\razorpagewithentityframework\\razorpagewithentityframework\\pages\\news\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|solutionrelative:razorpagewithentityframework\\pages\\news\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|d:\\code\\prn222\\razorpagewithentityframework\\razorpagewithentityframework\\pages\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|solutionrelative:razorpagewithentityframework\\pages\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|d:\\code\\prn222\\razorpagewithentityframework\\razorpagewithentityframework\\pages\\news\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|solutionrelative:razorpagewithentityframework\\pages\\news\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|d:\\code\\prn222\\razorpagewithentityframework\\razorpagewithentityframework\\pages\\news\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|solutionrelative:razorpagewithentityframework\\pages\\news\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|d:\\code\\prn222\\razorpagewithentityframework\\razorpagewithentityframework\\pages\\news\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|solutionrelative:razorpagewithentityframework\\pages\\news\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|d:\\code\\prn222\\razorpagewithentityframework\\razorpagewithentityframework\\pages\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|solutionrelative:razorpagewithentityframework\\pages\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|d:\\code\\prn222\\razorpagewithentityframework\\razorpagewithentityframework\\pages\\news\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|solutionrelative:razorpagewithentityframework\\pages\\news\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|d:\\code\\prn222\\razorpagewithentityframework\\razorpagewithentityframework\\pages\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|solutionrelative:razorpagewithentityframework\\pages\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|d:\\code\\prn222\\razorpagewithentityframework\\razorpagewithentityframework\\pages\\news\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D08A7AB-1D14-48EF-8963-45E4D977C75A}|RazorPageWithEntityFramework\\RazorPageWithEntityFramework.csproj|solutionrelative:razorpagewithentityframework\\pages\\news\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "RazorPageWithEntityFramework\\Program.cs",
+              "ToolTip": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Program.cs",
+              "RelativeToolTip": "RazorPageWithEntityFramework\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:45:20.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPageWithEntityFramework\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorPageWithEntityFramework\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T17:44:16.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPageWithEntityFramework\\Pages\\News\\Index.cshtml.cs",
+              "ToolTip": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPageWithEntityFramework\\Pages\\News\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:43:51.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPageWithEntityFramework\\Pages\\News\\Index.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Index.cshtml",
+              "RelativeToolTip": "RazorPageWithEntityFramework\\Pages\\News\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T17:43:51.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPageWithEntityFramework\\Pages\\News\\Delete.cshtml.cs",
+              "ToolTip": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Delete.cshtml.cs",
+              "RelativeToolTip": "RazorPageWithEntityFramework\\Pages\\News\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:43:51.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\appsettings.json",
+              "RelativeDocumentMoniker": "RazorPageWithEntityFramework\\appsettings.json",
+              "ToolTip": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\appsettings.json",
+              "RelativeToolTip": "RazorPageWithEntityFramework\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T17:23:58.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorPageWithEntityFramework\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorPageWithEntityFramework\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBwAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T17:44:20.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorPageWithEntityFramework\\Pages\\News\\Create.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Create.cshtml",
+              "RelativeToolTip": "RazorPageWithEntityFramework\\Pages\\News\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T17:43:50.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RazorPageWithEntityFramework\\Pages\\News\\Delete.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Delete.cshtml",
+              "RelativeToolTip": "RazorPageWithEntityFramework\\Pages\\News\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T17:43:51.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPageWithEntityFramework\\Pages\\News\\Details.cshtml.cs",
+              "ToolTip": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Details.cshtml.cs",
+              "RelativeToolTip": "RazorPageWithEntityFramework\\Pages\\News\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:43:51.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Details.cshtml",
+              "RelativeDocumentMoniker": "RazorPageWithEntityFramework\\Pages\\News\\Details.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Details.cshtml",
+              "RelativeToolTip": "RazorPageWithEntityFramework\\Pages\\News\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T17:43:51.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPageWithEntityFramework\\Pages\\News\\Edit.cshtml.cs",
+              "ToolTip": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazorPageWithEntityFramework\\Pages\\News\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:43:51.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RazorPageWithEntityFramework\\Pages\\News\\Edit.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Edit.cshtml",
+              "RelativeToolTip": "RazorPageWithEntityFramework\\Pages\\News\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T17:43:51.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPageWithEntityFramework\\Pages\\News\\Create.cshtml.cs",
+              "ToolTip": "D:\\Code\\PRN222\\RazorPageWithEntityFramework\\RazorPageWithEntityFramework\\Pages\\News\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorPageWithEntityFramework\\Pages\\News\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T17:43:50.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
