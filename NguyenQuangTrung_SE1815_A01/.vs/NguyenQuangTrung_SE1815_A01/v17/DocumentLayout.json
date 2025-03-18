@@ -3,11 +3,43 @@
   "WorkspaceRootPath": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\repository\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\repository\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\repository\\systemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\systemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\repository\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\repository\\isystemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\isystemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\repository\\inewsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\inewsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|d:\\code\\prn222\\nguyenquangtrung_se1815_a01\\nguyenquangtrung_mvc\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|d:\\code\\prn222\\nguyenquangtrung_se1815_a01\\nguyenquangtrung_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|d:\\code\\prn222\\nguyenquangtrung_se1815_a01\\nguyenquangtrung_mvc\\controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,16 +47,8 @@
       "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\views\\newsarticle\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\filter\\authorizeroleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\filter\\authorizeroleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\repository\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\repository\\systemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\systemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\repository\\isystemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\isystemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,10 +107,6 @@
       "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\repository\\inewsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\inewsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -107,20 +119,12 @@
       "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\repository\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\repository\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\service\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -146,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 126,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 182,
           "Children": [
             {
               "$type": "Bookmark",
@@ -158,52 +162,815 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:30:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1377497384:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1928210406:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:350743133:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:34:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:41:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:38:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:69:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:70:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:71:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:69:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:73:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:72:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:54:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0504ff91-9d61-11d0-a794-00a0c9110051}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:93:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:37:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:49:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:68:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:67:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:33:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:45:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:45:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1196186238:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:46:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:47:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:63:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:64:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:65:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:34:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:37:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:36:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:39:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:43:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:42:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:41:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99a11807-c5db-4877-ad35-09b56a044012}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:48:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:44:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:63:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:74:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Repository\\ITagRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\ITagRepository.cs",
+              "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\ITagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:28:16.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NewsArticleRepository.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\NewsArticleRepository.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Repository\\NewsArticleRepository.cs",
               "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\NewsArticleRepository.cs",
               "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\NewsArticleRepository.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAcwDUAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T21:35:10.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NewsArticleController.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Controllers\\NewsArticleController.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Controllers\\NewsArticleController.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Controllers\\NewsArticleController.cs",
-              "RelativeToolTip": "NguyenQuangTrung_MVC\\Controllers\\NewsArticleController.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAADwv0gAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T21:34:03.441Z",
+              "WhenOpened": "2025-02-25T21:35:10.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "SystemAccountRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\SystemAccountRepository.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Repository\\SystemAccountRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\SystemAccountRepository.cs",
+              "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\SystemAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:35:40.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\TagRepository.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Repository\\TagRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\TagRepository.cs",
+              "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\TagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:35:52.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:35:06.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISystemAccountRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\ISystemAccountRepository.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Repository\\ISystemAccountRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\ISystemAccountRepository.cs",
+              "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\ISystemAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:27:58.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INewsArticleRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\INewsArticleRepository.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Repository\\INewsArticleRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\INewsArticleRepository.cs",
+              "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\INewsArticleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:27:34.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T17:54:56.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "AuthorizeRoleAttribute.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Filter\\AuthorizeRoleAttribute.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Filter\\AuthorizeRoleAttribute.cs",
@@ -215,32 +982,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Repository\\CategoryRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\CategoryRepository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAIBBwA8AAAAJAAAA",
+              "DocumentIndex": 9,
+              "Title": "NewsArticleController.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Controllers\\NewsArticleController.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Controllers\\NewsArticleController.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Controllers\\NewsArticleController.cs",
+              "RelativeToolTip": "NguyenQuangTrung_MVC\\Controllers\\NewsArticleController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAADwv0gAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T19:35:06.561Z"
+              "WhenOpened": "2025-02-25T21:34:03.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\appsettings.json",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\appsettings.json",
               "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\appsettings.json",
               "RelativeToolTip": "NguyenQuangTrung_MVC\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-24T19:17:26.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "SystemAccount.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Models\\SystemAccount.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Models\\SystemAccount.cs",
@@ -252,7 +1019,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "ProfileController.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Controllers\\ProfileController.cs",
@@ -264,7 +1031,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Views\\Admin\\Create.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Views\\Admin\\Create.cshtml",
@@ -276,7 +1043,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Views\\Shared\\_Layout.cshtml",
@@ -288,7 +1055,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Views\\NewsArticle\\Create.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Views\\NewsArticle\\Create.cshtml",
@@ -300,7 +1067,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Controllers\\AdminController.cs",
@@ -312,19 +1079,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SystemAccountRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\SystemAccountRepository.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Repository\\SystemAccountRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\SystemAccountRepository.cs",
-              "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\SystemAccountRepository.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAA3wEUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T19:35:40.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Views\\Admin\\Edit.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Views\\Admin\\Edit.cshtml",
@@ -336,19 +1091,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ISystemAccountRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\ISystemAccountRepository.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Repository\\ISystemAccountRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\ISystemAccountRepository.cs",
-              "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\ISystemAccountRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T19:27:58.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Controllers\\HomeController.cs",
@@ -360,7 +1103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Program.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Program.cs",
@@ -372,7 +1115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Views\\Admin\\Details.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Views\\Admin\\Details.cshtml",
@@ -384,7 +1127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Views\\Admin\\Delete.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Views\\Admin\\Delete.cshtml",
@@ -396,7 +1139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Views\\Admin\\Index.cshtml",
@@ -408,7 +1151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Models\\Category.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Models\\Category.cs",
@@ -420,7 +1163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Views\\NewsArticle\\Details.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Views\\NewsArticle\\Details.cshtml",
@@ -432,7 +1175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Views\\NewsArticle\\Edit.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Views\\NewsArticle\\Edit.cshtml",
@@ -444,7 +1187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Models\\ErrorViewModel.cs",
@@ -456,7 +1199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "Tag.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Models\\Tag.cs",
@@ -468,19 +1211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "INewsArticleRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\INewsArticleRepository.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Repository\\INewsArticleRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\INewsArticleRepository.cs",
-              "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\INewsArticleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T19:27:34.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "NewsArticle.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Models\\NewsArticle.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Models\\NewsArticle.cs",
@@ -492,19 +1223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ITagRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\ITagRepository.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Repository\\ITagRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\ITagRepository.cs",
-              "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\ITagRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T19:28:16.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Views\\Home\\Privacy.cshtml",
@@ -516,7 +1235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Views\\_ViewStart.cshtml",
@@ -528,19 +1247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "TagRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\TagRepository.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Repository\\TagRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Repository\\TagRepository.cs",
-              "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\TagRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T19:35:52.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Service\\ICategoryService.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Service\\ICategoryService.cs",
@@ -552,7 +1259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "ITagService.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Service\\ITagService.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Service\\ITagService.cs",
@@ -564,7 +1271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "ISystemAccountService.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Service\\ISystemAccountService.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Service\\ISystemAccountService.cs",
@@ -576,7 +1283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "INewsArticleService.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Service\\INewsArticleService.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Service\\INewsArticleService.cs",
@@ -585,6 +1292,146 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T19:33:52.037Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5b6781c0-e99d-11d0-9954-00a0c91bc8e5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:43:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:35:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{260978c3-582c-487d-ab12-c1fdde07c578}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:33:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:35:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:36:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:38:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:39:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:42:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             }
           ]
         }

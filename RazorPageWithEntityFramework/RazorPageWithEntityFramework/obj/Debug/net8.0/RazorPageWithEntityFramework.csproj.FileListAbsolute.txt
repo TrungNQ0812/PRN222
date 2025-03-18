@@ -283,3 +283,4 @@ D:\Code\PRN222\RazorPageWithEntityFramework\RazorPageWithEntityFramework\bin\Deb
 D:\Code\PRN222\RazorPageWithEntityFramework\RazorPageWithEntityFramework\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\Code\PRN222\RazorPageWithEntityFramework\RazorPageWithEntityFramework\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\Code\PRN222\RazorPageWithEntityFramework\RazorPageWithEntityFramework\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Code\PRN222\RazorPageWithEntityFramework\RazorPageWithEntityFramework\bin\Debug\net8.0\bundleconfig.json

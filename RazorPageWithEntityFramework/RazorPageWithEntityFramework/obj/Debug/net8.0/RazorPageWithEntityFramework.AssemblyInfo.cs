@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RazorPageWithEntityFramework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe0801e5df88a32d89321fdec9817163b53d00ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6aefda7ce86f4124655a72ffbddb13945815271b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RazorPageWithEntityFramework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RazorPageWithEntityFramework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
