@@ -18,8 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Code\PRN222\Razor_Pages_Demo\Razor_Pages_Demo
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Code/PRN222/Razor_Pages_Demo/Razor_Pages_Demo/Pages/CustomerForm.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJGb3JtLmNzaHRtbA==
+[D:/Code/PRN222/Razor_Pages_Demo/Razor_Pages_Demo/Pages/Customer/CustomerForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJcQ3VzdG9tZXJGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Code/PRN222/Razor_Pages_Demo/Razor_Pages_Demo/Pages/Error.cshtml]

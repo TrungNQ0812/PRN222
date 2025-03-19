@@ -3,15 +3,15 @@ using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Razor_Pages_Demo.Models;
 
-namespace Razor_Pages_Demo.Pages
+namespace Razor_Pages_Demo.Pages.Customer
 {
     public class CustomerFormModel : PageModel
     {
 
-        public string Message {  get; set; }
+        public string Message { get; set; }
 
         [BindProperty]
-        public Customer customerInfor { get; set; }
+        public Models.Customer customerInfor { get; set; }
 
         public void OnPost()
         {
