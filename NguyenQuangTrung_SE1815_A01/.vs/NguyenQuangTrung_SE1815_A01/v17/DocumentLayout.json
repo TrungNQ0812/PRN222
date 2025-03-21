@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|d:\\code\\prn222\\nguyenquangtrung_se1815_a01\\nguyenquangtrung_mvc\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,11 +31,11 @@
       "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\inewsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|d:\\code\\prn222\\nguyenquangtrung_se1815_a01\\nguyenquangtrung_mvc\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|d:\\code\\prn222\\nguyenquangtrung_se1815_a01\\nguyenquangtrung_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
@@ -874,8 +874,7 @@
               "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\ITagRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T19:28:16.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T19:28:16.006Z"
             },
             {
               "$type": "Document",
@@ -887,8 +886,7 @@
               "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\NewsArticleRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T21:35:10.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T21:35:10.092Z"
             },
             {
               "$type": "Document",
@@ -900,8 +898,7 @@
               "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\SystemAccountRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T19:35:40.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T19:35:40.625Z"
             },
             {
               "$type": "Document",
@@ -913,8 +910,7 @@
               "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\TagRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T19:35:52.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T19:35:52.361Z"
             },
             {
               "$type": "Document",
@@ -939,8 +935,7 @@
               "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\ISystemAccountRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T19:27:58.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T19:27:58.168Z"
             },
             {
               "$type": "Document",
@@ -952,8 +947,7 @@
               "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\INewsArticleRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T19:27:34.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T19:27:34.66Z"
             },
             {
               "$type": "Document",
@@ -965,8 +959,7 @@
               "RelativeToolTip": "NguyenQuangTrung_MVC\\Repository\\ICategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T17:54:56.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T17:54:56.073Z"
             },
             {
               "$type": "Document",
@@ -1002,8 +995,7 @@
               "RelativeToolTip": "NguyenQuangTrung_MVC\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-24T19:17:26.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T19:17:26.834Z"
             },
             {
               "$type": "Document",

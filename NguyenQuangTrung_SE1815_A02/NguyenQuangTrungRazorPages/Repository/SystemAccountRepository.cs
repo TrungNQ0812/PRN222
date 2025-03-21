@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using NguyenQuangTrungRazorPages.DAL;
 using NguyenQuangTrungRazorPages.Models;
 
@@ -20,7 +21,7 @@ namespace NguyenQuangTrungRazorPages.Repository
             _context.SaveChanges();
         }
 
-
+        
 
         public void DeleteAccount(int id)
         {
@@ -44,7 +45,7 @@ namespace NguyenQuangTrungRazorPages.Repository
 
         public List<SystemAccount> GetAllSystemAccounts()
         {
-            return _context.SystemAccounts.ToList();
+           return _context.SystemAccounts.ToList();
         }
 
         public SystemAccount GetSystemAccountByEmail(string email)

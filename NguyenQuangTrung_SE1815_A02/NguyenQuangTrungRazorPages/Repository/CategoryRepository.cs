@@ -6,39 +6,25 @@ namespace NguyenQuangTrungRazorPages.Repository
 {
     public class CategoryRepository : ICategoryRepository
     {
-        private FuNewsManagementContext context;
+        private readonly FuNewsManagementContext _context;
 
         public CategoryRepository(FuNewsManagementContext context)
         {
-            this.context = context;
+            _context = context ?? throw new ArgumentNullException(nameof(context));
         }
-
-        public void AddCategory(Category category)
+        public List<Category> GetAll()
         {
-            throw new NotImplementedException();
-        }
-
-        public void DeleteCategory(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public List<Category> GetAllCategories()
-        {
-            return context.Categories.ToList();
+            return _context.Categories.ToList();
         }
 
         public List<SelectListItem> GetAllCategoryID()
         {
-            return context.Categories.Select(c => new SelectListItem { 
+            
+            return _context.Categories.Select(c => new SelectListItem
+            {
                 Value = c.CategoryId.ToString(),
-                Text = c.CategoryName.ToString(),
+                Text = c.CategoryName.ToString()
             }).ToList();
-        }
-
-        public void UpdateCategory(Category category)
-        {
-            throw new NotImplementedException();
         }
     }
 }

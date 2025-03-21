@@ -5,12 +5,7 @@ namespace NguyenQuangTrungRazorPages.Repository
 {
     public interface ICategoryRepository
     {
-
-        public List<Category> GetAllCategories();
-        public void AddCategory(Category category);
-        public void UpdateCategory(Category category);
-        public void DeleteCategory(int id);
+        public List<Category> GetAll();
         public List<SelectListItem> GetAllCategoryID();
-
     }
 }

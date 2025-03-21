@@ -12,6 +12,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
   </ItemGroup>
 
   <ItemGroup>
@@ -21,10 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Pages\Category\" />
-    <Folder Include="Pages\Tag\" />
-    <Folder Include="Pages\SystemAccount\" />
-    <Folder Include="Pages\NewsArticle\" />
+    <Folder Include="Filter\" />
   </ItemGroup>
 
 </Project>
