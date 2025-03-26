@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TrungNQ_Project_PRN222.props" />
+</Project>

@@ -1,0 +1,23 @@
+﻿@page
+@model NguyenQuangTrungRazorPages.Pages.Account.UpdateProfileModel
+<h2>Edit Profile</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label>Name</label>
+        <input asp-for="Account.AccountName" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label>Email</label>
+        <input asp-for="Account.AccountEmail" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label>Password</label>
+        <input asp-for="Account.AccountPassword" class="form-control" type="password" />
+    </div>
+
+    <button type="submit" class="btn btn-success">Save Changes</button>
+    <a asp-page="ViewProfile" class="btn btn-secondary">Cancel</a>
+</form>

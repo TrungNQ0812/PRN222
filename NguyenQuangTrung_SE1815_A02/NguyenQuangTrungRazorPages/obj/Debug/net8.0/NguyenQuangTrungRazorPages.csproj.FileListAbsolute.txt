@@ -145,7 +145,6 @@ D:\Code\PRN222\NguyenQuangTrung_SE1815_A02\NguyenQuangTrungRazorPages\obj\Debug\
 D:\Code\PRN222\NguyenQuangTrung_SE1815_A02\NguyenQuangTrungRazorPages\obj\Debug\net8.0\NguyenQuangTrungRazorPages.MvcApplicationPartsAssemblyInfo.cache
 D:\Code\PRN222\NguyenQuangTrung_SE1815_A02\NguyenQuangTrungRazorPages\obj\Debug\net8.0\NguyenQuangTrungRazorPages.RazorAssemblyInfo.cache
 D:\Code\PRN222\NguyenQuangTrung_SE1815_A02\NguyenQuangTrungRazorPages\obj\Debug\net8.0\NguyenQuangTrungRazorPages.RazorAssemblyInfo.cs
-D:\Code\PRN222\NguyenQuangTrung_SE1815_A02\NguyenQuangTrungRazorPages\obj\Debug\net8.0\NguyenQuangTrungRazorPages.sourcelink.json
 D:\Code\PRN222\NguyenQuangTrung_SE1815_A02\NguyenQuangTrungRazorPages\obj\Debug\net8.0\staticwebassets.build.json
 D:\Code\PRN222\NguyenQuangTrung_SE1815_A02\NguyenQuangTrungRazorPages\obj\Debug\net8.0\staticwebassets.development.json
 D:\Code\PRN222\NguyenQuangTrung_SE1815_A02\NguyenQuangTrungRazorPages\obj\Debug\net8.0\staticwebassets\msbuild.NguyenQuangTrungRazorPages.Microsoft.AspNetCore.StaticWebAssets.props

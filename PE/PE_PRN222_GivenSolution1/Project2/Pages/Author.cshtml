@@ -1,0 +1,48 @@
+﻿@page
+@model Project2.Pages.AuthorModel
+@{
+}
+
+<div class="container mt-4">
+    <h1>List of authors</h1>
+
+    <div class="row">
+        <div class="col-md-3">
+             <label>Filter by book:</label>
+             <select>
+                 <option>
+                     All Books
+                 </option>
+             </select>
+             <button>Filter</button>
+        </div> 
+
+        <div class="col-md-9">
+            <table class="table table-striped" border="1" >
+                <thead >
+                    <tr>
+                        <th style="margin-right=40px">Author Id</th>
+                        <th style="margin-right=40px">Name</th>
+                        <th style ="margin-right=40px">Birth Year</th>
+                        <th style="margin-right=40px">Books</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var author in Model.Authors)
+                    {
+                        <tr>
+                            <td style="margin-right=40px">@author.AuthorId</td>
+                            <td style="margin-right=40px">@author.BirthYear</td>
+                            <td style="margin-right=40px">@author.Name</td>
+                            <td style="margin-right=40px">@string.Join(", ", author.Books.Select(s => s.Title))</td>
+                            <td>
+                                <a href="#" class="text-danger" onclick="">View details</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

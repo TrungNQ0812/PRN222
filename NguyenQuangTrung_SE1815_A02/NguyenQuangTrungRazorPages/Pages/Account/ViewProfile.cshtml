@@ -1,0 +1,22 @@
+﻿@page
+@model NguyenQuangTrungRazorPages.Pages.Account.ViewProfileModel
+<h2>My Profile</h2>
+
+<table class="table">
+    <tr>
+        <th>Name:</th>
+        <td>@Model.Account.AccountName</td>
+    </tr>
+    <tr>
+        <th>Email:</th>
+        <td>@Model.Account.AccountEmail</td>
+    </tr>
+    <tr>
+        <th>Role:</th>
+        <td>
+            @(Model.Account.AccountRole == 1 ? "Staff" : Model.Account.AccountRole == 2 ? "Lecturer" : "Unknown")
+        </td>
+    </tr>
+</table>
+
+<a asp-page="UpdateProfile" class="btn btn-primary">Edit Profile</a>
