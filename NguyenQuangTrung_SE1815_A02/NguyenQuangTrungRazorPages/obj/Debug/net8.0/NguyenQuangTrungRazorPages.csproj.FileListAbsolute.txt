@@ -282,3 +282,4 @@ D:\Code\PRN222\NguyenQuangTrung_SE1815_A02\NguyenQuangTrungRazorPages\bin\Debug\
 D:\Code\PRN222\NguyenQuangTrung_SE1815_A02\NguyenQuangTrungRazorPages\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\Code\PRN222\NguyenQuangTrung_SE1815_A02\NguyenQuangTrungRazorPages\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\Code\PRN222\NguyenQuangTrung_SE1815_A02\NguyenQuangTrungRazorPages\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Code\PRN222\NguyenQuangTrung_SE1815_A02\NguyenQuangTrungRazorPages\obj\Debug\net8.0\NguyenQuangTrungRazorPages.sourcelink.json

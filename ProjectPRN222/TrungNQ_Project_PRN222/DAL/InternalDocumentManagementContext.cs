@@ -7,14 +7,6 @@ namespace TrungNQ_Project_PRN222.DAL;
 
 public partial class InternalDocumentManagementContext : DbContext
 {
-    public InternalDocumentManagementContext()
-    {
-    }
-
-    public InternalDocumentManagementContext(DbContextOptions<InternalDocumentManagementContext> options)
-        : base(options)
-    {
-    }
 
     public virtual DbSet<Account> Accounts { get; set; }
 
@@ -28,10 +20,29 @@ public partial class InternalDocumentManagementContext : DbContext
 
     public virtual DbSet<Role> Roles { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server=(local);Database=InternalDocumentManagement;User Id=sa;Password=123121;TrustServerCertificate=True");
 
+    private readonly IConfiguration _configuration;
+
+    public InternalDocumentManagementContext(IConfiguration configuration)
+    {
+        _configuration = configuration;
+    }
+
+    public InternalDocumentManagementContext(DbContextOptions<InternalDocumentManagementContext> options, IConfiguration configuration)
+        : base(options)
+    {
+        _configuration = configuration;
+    }
+
+
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        if (!optionsBuilder.IsConfigured)
+        {
+            string connectionString = _configuration.GetConnectionString("InternalDocumentManagement");
+            optionsBuilder.UseSqlServer(connectionString);
+        }
+    }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Account>(entity =>

@@ -13,8 +13,11 @@ builder.Services.AddSession(options =>
     options.Cookie.IsEssential = true;
 });
 
+// Add context when hardcode
 builder.Services.AddDbContext<FuNewsManagementContext>(options => 
-                        options.UseSqlServer(builder.Configuration.GetConnectionString("FuNewsManagement")));
+                        options.UseSqlServer(
+                            builder.Configuration.GetConnectionString("FuNewsManagement")));
+//-------------------------------------------------------------------------------------------------
 builder.Services.AddScoped(typeof(FuNewsManagementContext));
 builder.Services.AddScoped<INewsArticleRepository, NewsArticleRepository>();
 builder.Services.AddScoped<NewsArticleRepository>();
