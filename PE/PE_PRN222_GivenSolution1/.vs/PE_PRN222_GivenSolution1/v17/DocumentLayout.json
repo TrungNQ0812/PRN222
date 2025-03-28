@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Code\\PRN222\\PE\\PE_PRN222_GivenSolution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55EBC301-016F-420D-9308-377D0B3DC8ED}|Project2\\Project2.csproj|D:\\Code\\PRN222\\PE\\PE_PRN222_GivenSolution1\\project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55EBC301-016F-420D-9308-377D0B3DC8ED}|Project2\\Project2.csproj|d:\\code\\prn222\\pe\\pe_prn222_givensolution1\\project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55EBC301-016F-420D-9308-377D0B3DC8ED}|Project2\\Project2.csproj|solutionrelative:project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55EBC301-016F-420D-9308-377D0B3DC8ED}|Project2\\Project2.csproj|d:\\code\\prn222\\pe\\pe_prn222_givensolution1\\project2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{55EBC301-016F-420D-9308-377D0B3DC8ED}|Project2\\Project2.csproj|D:\\Code\\PRN222\\PE\\PE_PRN222_GivenSolution1\\project2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{55EBC301-016F-420D-9308-377D0B3DC8ED}|Project2\\Project2.csproj|solutionrelative:project2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 185,
+          "SelectedChildIndex": 176,
           "Children": [
             {
               "$type": "Bookmark",
@@ -742,15 +742,28 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\PE\\PE_PRN222_GivenSolution1\\Project2\\Program.cs",
+              "RelativeDocumentMoniker": "Project2\\Program.cs",
+              "ToolTip": "D:\\Code\\PRN222\\PE\\PE_PRN222_GivenSolution1\\Project2\\Program.cs",
+              "RelativeToolTip": "Project2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:34:24.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -822,19 +835,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\PE\\PE_PRN222_GivenSolution1\\Project2\\Program.cs",
-              "RelativeDocumentMoniker": "Project2\\Program.cs",
-              "ToolTip": "D:\\Code\\PRN222\\PE\\PE_PRN222_GivenSolution1\\Project2\\Program.cs",
-              "RelativeToolTip": "Project2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T09:34:24.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Code\\PRN222\\PE\\PE_PRN222_GivenSolution1\\Project2\\appsettings.json",
@@ -843,8 +843,7 @@
               "RelativeToolTip": "Project2\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-22T09:29:32.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T09:29:32.073Z"
             },
             {
               "$type": "Bookmark",

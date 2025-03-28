@@ -60,14 +60,13 @@ namespace NguyenQuangTrungRazorPages.Repositories
 
         public async Task DeleteAsync(short? id)
         {
-            var category = await _context.Categories.Include(c => c.NewsArticles).FirstOrDefaultAsync(c => c.CategoryId == id);
+            var category = await _context.Categories
+                .Include(c => c.NewsArticles)
+                .FirstOrDefaultAsync(c => c.CategoryId == id);
 
-            if (category == null)
-            {
-              
-            }
+           
 
-            if (category != null && category.NewsArticles == null)
+            if (category != null && !category.NewsArticles.Any() == true)
             {
                 _context.Categories.Remove(category);
                 await _context.SaveChangesAsync();

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|d:\\code\\prn222\\nguyenquangtrung_se1815_a01\\nguyenquangtrung_mvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|d:\\code\\prn222\\nguyenquangtrung_se1815_a01\\nguyenquangtrung_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|solutionrelative:nguyenquangtrung_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FD3F344-333D-4866-9907-759774DE5D4D}|NguyenQuangTrung_MVC\\NguyenQuangTrung_MVC.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\nguyenquangtrung_mvc\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -158,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 126,
-          "SelectedChildIndex": 187,
+          "SelectedChildIndex": 177,
           "Children": [
             {
               "$type": "Bookmark",
@@ -866,19 +866,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "NguyenQuangTrung_MVC\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:23:39.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "NguyenQuangTrung_MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwA0AAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T22:16:59.024Z"
+              "WhenOpened": "2025-02-25T22:16:59.024Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Program.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Program.cs",
@@ -886,8 +900,7 @@
               "RelativeToolTip": "NguyenQuangTrung_MVC\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T17:30:10.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T17:30:10.119Z"
             },
             {
               "$type": "Bookmark",
@@ -988,19 +1001,6 @@
               "ViewState": "AQIAAFEAAAAAAAAAAADwv0gAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T21:34:03.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrung_MVC\\Controllers\\AdminController.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A01\\NguyenQuangTrung_MVC\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "NguyenQuangTrung_MVC\\Controllers\\AdminController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAIwCwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T20:23:39.135Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

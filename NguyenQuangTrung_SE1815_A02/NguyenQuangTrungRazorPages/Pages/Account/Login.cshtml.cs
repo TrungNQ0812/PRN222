@@ -49,7 +49,6 @@ namespace NguyenQuangTrungRazorPages.Pages.Account
 
             var user = await _accountService.AuthenticateAsync(Email, Password);
 
-            // ✅ Kiểm tra nếu đăng nhập là admin từ appsettings.json
             if (user == null && Email == _adminSettings.Email && Password == _adminSettings.Password)
             {
                 user = new SystemAccount
@@ -66,7 +65,6 @@ namespace NguyenQuangTrungRazorPages.Pages.Account
                 return Page();
             }
 
-            // ✅ Lưu vào Session
             HttpContext.Session.SetInt32("UserId", user.AccountId);
             HttpContext.Session.SetInt32("UserRole", user.AccountRole ?? 0);
 
