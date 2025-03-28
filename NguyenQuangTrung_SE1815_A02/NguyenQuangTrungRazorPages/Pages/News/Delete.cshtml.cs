@@ -1,63 +1,26 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.EntityFrameworkCore;
-using NguyenQuangTrungRazorPages.DAL;
-using NguyenQuangTrungRazorPages.Models;
+using NguyenQuangTrungRazorPages.Services;
+using System.Threading.Tasks;
 
-namespace NguyenQuangTrungRazorPages.Pages.NewsArticle
+namespace NguyenQuangTrungRazorPages.Pages.News
 {
     public class DeleteModel : PageModel
     {
-        private readonly NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext _context;
+        private readonly INewsService _newsService;
 
-        public DeleteModel(NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext context)
+        public DeleteModel(INewsService newsService)
         {
-            _context = context;
+            _newsService = newsService;
         }
 
         [BindProperty]
-        public Models.NewsArticle NewsArticle { get; set; } = default!;
+        public string NewsArticleId { get; set; } = null!;
 
-        public async Task<IActionResult> OnGetAsync(string id)
+        public async Task<IActionResult> OnPostAsync()
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var newsarticle = await _context.NewsArticles.FirstOrDefaultAsync(m => m.NewsArticleId == id);
-
-            if (newsarticle == null)
-            {
-                return NotFound();
-            }
-            else
-            {
-                NewsArticle = newsarticle;
-            }
-            return Page();
-        }
-
-        public async Task<IActionResult> OnPostAsync(string id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var newsarticle = await _context.NewsArticles.FindAsync(id);
-            if (newsarticle != null)
-            {
-                NewsArticle = newsarticle;
-                _context.NewsArticles.Remove(NewsArticle);
-                await _context.SaveChangesAsync();
-            }
-
-            return RedirectToPage("./Index");
+            await _newsService.DeleteAsync(NewsArticleId);
+            return RedirectToPage("Index");
         }
     }
 }

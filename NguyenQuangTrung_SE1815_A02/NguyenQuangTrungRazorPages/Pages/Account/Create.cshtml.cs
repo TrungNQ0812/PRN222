@@ -1,33 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using NguyenQuangTrungRazorPages.DAL;
+using Microsoft.EntityFrameworkCore;
 using NguyenQuangTrungRazorPages.Models;
+using NguyenQuangTrungRazorPages.Services;
 
-namespace NguyenQuangTrungRazorPages.Pages.SystemAccount
+namespace NguyenQuangTrungRazorPages.Pages.Account
 {
     public class CreateModel : PageModel
     {
-        private readonly NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext _context;
-
-        public CreateModel(NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext context)
-        {
-            _context = context;
-        }
-
-        public IActionResult OnGet()
-        {
-            return Page();
-        }
+        private readonly IAccountService _accountService;
 
         [BindProperty]
-        public Models.SystemAccount SystemAccount { get; set; } = default!;
+        public SystemAccount Account { get; set; } = new();
 
-        // For more information, see https://aka.ms/RazorPagesCRUD.
+        public CreateModel(IAccountService accountService)
+        {
+            _accountService = accountService;
+        }
+
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid)
@@ -35,10 +25,10 @@ namespace NguyenQuangTrungRazorPages.Pages.SystemAccount
                 return Page();
             }
 
-            _context.SystemAccounts.Add(SystemAccount);
-            await _context.SaveChangesAsync();
-
-            return RedirectToPage("./Index");
+            await _accountService.AddAsync(Account);
+            return RedirectToPage("Index");
         }
     }
+
+
 }

@@ -1,75 +1,51 @@
 ﻿@page
-@model NguyenQuangTrungRazorPages.Pages.SystemAccount.IndexModel
+@model NguyenQuangTrungRazorPages.Pages.Account.IndexModel
 
-@{
-    ViewData["Title"] = "Index";
-}
+<h2 class="mb-4">System Accounts</h2>
 
-<h1>Index</h1>
-
-<p>
-    <a asp-page="Create">Create New</a>
-</p>
-
-<form method="get">
-    <p>
-        Search by Name:
-        <input type="text" name="SearchString" value="@Model.searchString" />
-        Filter by Status:
-        <select name="accountStatus">
-            <option value="">All</option>
-            <option value="Activate">Active</option>
-            <option value="Deactivate">Deactive</option>
-        </select>
-        <input type="submit" value="Search" />
-    </p>
+<form method="get" class="d-flex gap-2 mb-3">
+    <input type="text" name="SearchTerm" class="form-control w-25" placeholder="Search by Name or Email" value="@Model.SearchTerm" />
+    <select name="SortByIdAsc" class="form-select w-25">
+        <option value="true" selected="@(Model.SortByIdAsc ? "selected" : null)">Sort by ID Asc</option>
+        <option value="false" selected="@(Model.SortByIdAsc ? null : "selected")">Sort by ID Desc</option>
+    </select>
+    <button type="submit" class="btn btn-primary">Search</button>
 </form>
- 
-<table class="table">
-    <thead>
+
+<a asp-page="Create" class="btn btn-success mb-3">Create New</a>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.SystemAccount[0].AccountName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.SystemAccount[0].AccountEmail)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.SystemAccount[0].AccountRole)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.SystemAccount[0].AccountPassword)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.SystemAccount[0].AccountStatus)
-            </th>
-            <th></th>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Role</th>
+            <th>Status</th>
+            <th>Actions</th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model.SystemAccount) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.AccountName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.AccountEmail)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.AccountRole)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.AccountPassword)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.AccountStatus)
-            </td>
-            <td>
-                <a asp-page="./Edit" asp-route-id="@item.AccountId">Edit</a> |
-                <a asp-page="./Details" asp-route-id="@item.AccountId">Details</a> |
-                <a asp-page="./Delete" asp-route-id="@item.AccountId">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var account in Model.Accounts)
+        {
+            <tr>
+                <td>@account.AccountId</td>
+                <td>@account.AccountName</td>
+                <td>@account.AccountEmail</td>
+                <td>
+                    @(account.AccountRole == 1 ? "Staff" : account.AccountRole == 2 ? "Lecturer" : "Unknown")
+                </td>
+                <td class="text-@(account.AccountStatus == "Activate" ? "success" : "danger")">@(account.AccountStatus == "Activate" ? "Active" : "Inactive")</td>
+                <td>
+                    <div class="d-flex gap-2">
+                        <a asp-page="Edit" asp-route-id="@account.AccountId" class="btn btn-warning btn-sm">Edit</a>
+                        <form asp-page="Delete" method="post" class="d-inline" onsubmit="return confirm('Are you sure?')">
+                            <input type="hidden" name="AccountId" value="@account.AccountId" />
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </div>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

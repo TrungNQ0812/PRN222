@@ -1,90 +1,53 @@
 ﻿@page
-@model NguyenQuangTrungRazorPages.Pages.NewsArticle.IndexModel
+@model NguyenQuangTrungRazorPages.Pages.News.IndexModel
 
-@{
-    ViewData["Title"] = "Index";
-}
+<h2 class="mb-4">News List</h2>
 
-<h1>Index</h1>
+<a asp-page="Create" class="btn btn-success mb-3">Create New</a>
 
-<p>
-    <a asp-page="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.NewsArticle[0].NewsTitle)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.NewsArticle[0].Headline)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.NewsArticle[0].CreatedDate)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.NewsArticle[0].NewsContent)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.NewsArticle[0].NewsSource)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.NewsArticle[0].NewsStatus)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.NewsArticle[0].UpdatedById)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.NewsArticle[0].ModifiedDate)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.NewsArticle[0].Category)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.NewsArticle[0].CreatedBy)
-            </th>
-            <th></th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Headline</th>
+            <th>Created Date</th>
+            <th>Category</th>
+            <th>Status</th>
+            <th>Tags</th> <!-- Thêm cột Tags -->
+            <th>Actions</th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model.NewsArticle) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.NewsTitle)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Headline)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CreatedDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.NewsContent)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.NewsSource)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.NewsStatus)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.UpdatedById)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ModifiedDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Category.CategoryId)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CreatedBy.AccountId)
-            </td>
-            <td>
-                <a asp-page="./Edit" asp-route-id="@item.NewsArticleId">Edit</a> |
-                <a asp-page="./Details" asp-route-id="@item.NewsArticleId">Details</a> |
-                <a asp-page="./Delete" asp-route-id="@item.NewsArticleId">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var news in Model.NewsArticles)
+        {
+            <tr>
+                <td>@news.NewsArticleId</td>
+                <td>@news.NewsTitle</td>
+                <td>@news.Headline</td>
+                <td>@news.CreatedDate</td>
+                <td>@news.Category?.CategoryName</td>
+                <td>@(news.NewsStatus == true ? "Active" : "Inactive")</td>
+                <td>
+                    @if (news.Tags != null && news.Tags.Any())
+                    {
+                        @string.Join(", ", news.Tags.Select(t => t.TagName))
+                    }
+                    else
+                    {
+                        <span>No Tags</span>
+                    }
+                </td>
+                <td>
+                    <div class="d-flex gap-2">
+                        <a asp-page="Edit" asp-route-id="@news.NewsArticleId" class="btn btn-warning btn-sm">Edit</a>
+                        <form asp-page="Delete" method="post" class="d-inline" onsubmit="return confirm('Are you sure?')">
+                            <input type="hidden" name="NewsArticleId" value="@news.NewsArticleId" />
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </div>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

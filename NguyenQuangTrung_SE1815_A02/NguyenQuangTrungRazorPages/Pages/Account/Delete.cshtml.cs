@@ -1,63 +1,35 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.EntityFrameworkCore;
-using NguyenQuangTrungRazorPages.DAL;
 using NguyenQuangTrungRazorPages.Models;
+using NguyenQuangTrungRazorPages.Services;
 
-namespace NguyenQuangTrungRazorPages.Pages.SystemAccount
+namespace NguyenQuangTrungRazorPages.Pages.Account
 {
+
+
     public class DeleteModel : PageModel
     {
-        private readonly NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext _context;
+        private readonly IAccountService _accountService;
 
-        public DeleteModel(NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext context)
+        public DeleteModel(IAccountService accountService)
         {
-            _context = context;
+            _accountService = accountService;
         }
 
         [BindProperty]
-        public Models.SystemAccount SystemAccount { get; set; } = default!;
+        public SystemAccount Account { get; set; }
 
-        public async Task<IActionResult> OnGetAsync(short? id)
+        public async Task<IActionResult> OnPostAsync(short accountId)
         {
-            if (id == null)
+            if (accountId == 0)
             {
                 return NotFound();
             }
 
-            var systemaccount = await _context.SystemAccounts.FirstOrDefaultAsync(m => m.AccountId == id);
-
-            if (systemaccount == null)
-            {
-                return NotFound();
-            }
-            else
-            {
-                SystemAccount = systemaccount;
-            }
-            return Page();
-        }
-
-        public async Task<IActionResult> OnPostAsync(short? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var systemaccount = await _context.SystemAccounts.FindAsync(id);
-            if (systemaccount != null)
-            {
-                SystemAccount = systemaccount;
-                _context.SystemAccounts.Remove(SystemAccount);
-                await _context.SaveChangesAsync();
-            }
-
-            return RedirectToPage("./Index");
+            await _accountService.DeleteAsync(accountId);
+            return RedirectToPage("Index"); // Quay lại danh sách sau khi xóa
         }
     }
+
+
 }

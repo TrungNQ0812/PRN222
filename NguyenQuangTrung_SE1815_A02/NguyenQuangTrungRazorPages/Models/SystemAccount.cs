@@ -19,3 +19,14 @@ public partial class SystemAccount
 
     public virtual ICollection<NewsArticle> NewsArticles { get; set; } = new List<NewsArticle>();
 }
+
+
+
+public class AdminAccountSettings
+{
+    public string Email { get; set; }
+    public string Password { get; set; }
+    public short AccountId { get; set; }
+    public string AccountName { get; set; }
+    public int AccountRole { get; set; }
+}

@@ -1,67 +1,28 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.EntityFrameworkCore;
-using NguyenQuangTrungRazorPages.DAL;
 using NguyenQuangTrungRazorPages.Models;
-using NguyenQuangTrungRazorPages.Repositories;
 using NguyenQuangTrungRazorPages.Services;
 
-namespace NguyenQuangTrungRazorPages.Pages.Category
+namespace NguyenQuangTrungRazorPages.Pages.Categories
 {
     public class DeleteModel : PageModel
     {
-        private readonly NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext _context;
-        private readonly CategoryService _cateService;
-        public DeleteModel(NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext context, CategoryService cateService)
+        private readonly ICategoryService _categoryService;
+
+        public DeleteModel(ICategoryService categoryService)
         {
-            _context = context;
-            _cateService = cateService;
+            _categoryService = categoryService;
         }
 
         [BindProperty]
-        public Models.Category Category { get; set; } = default!;
+        public short CategoryId { get; set; } 
 
-        public async Task<IActionResult> OnGetAsync(short? id)
+        
+
+        public async Task<IActionResult> OnPostAsync()
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var category = await _context.Categories.FirstOrDefaultAsync(m => m.CategoryId == id);
-
-            if (category == null)
-            {
-                return NotFound();
-            }
-            else
-            {
-                Category = category;
-            }
-            return Page();
-        }
-
-        public async Task<IActionResult> OnPostAsync(short? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            _cateService.DeleteAsync(id);
-            //var category = await _context.Categories.FindAsync(id);
-            //if (category != null)
-            //{
-            //    Category = category;
-            //    _context.Categories.Remove(Category);
-            //    await _context.SaveChangesAsync();
-            //}
-
-            return RedirectToPage("./Index");
+            await _categoryService.DeleteAsync(CategoryId);
+            return RedirectToPage("Index");
         }
     }
 }

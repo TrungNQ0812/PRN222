@@ -1,45 +1,40 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using NguyenQuangTrungRazorPages.DAL;
 using NguyenQuangTrungRazorPages.Models;
+using NguyenQuangTrungRazorPages.Services;
 
-namespace NguyenQuangTrungRazorPages.Pages.Category
+namespace NguyenQuangTrungRazorPages.Pages.Categories
 {
     public class CreateModel : PageModel
     {
-        private readonly NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext _context;
+        private readonly ICategoryService _categoryService;
 
-        public CreateModel(NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext context)
+        public CreateModel(ICategoryService categoryService)
         {
-            _context = context;
-        }
-
-        public IActionResult OnGet()
-        {
-        ViewData["ParentCategoryId"] = new SelectList(_context.Categories, "CategoryId", "CategoryId");
-            return Page();
+            _categoryService = categoryService;
         }
 
         [BindProperty]
-        public Models.Category Category { get; set; } = default!;
+        public Models.Category Category { get; set; } = new();
 
-        // For more information, see https://aka.ms/RazorPagesCRUD.
+        public List<Models.Category> ParentCategories { get; set; } = new();
+
+        public async Task OnGetAsync()
+        {
+            ParentCategories = await _categoryService.GetAllCategoryAsync();
+        }
+
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid)
             {
+                ParentCategories = await _categoryService.GetAllCategoryAsync();
                 return Page();
             }
 
-            _context.Categories.Add(Category);
-            await _context.SaveChangesAsync();
-
-            return RedirectToPage("./Index");
+            await _categoryService.CreateAsync(Category);
+            return RedirectToPage("Index");
         }
     }
+
 }

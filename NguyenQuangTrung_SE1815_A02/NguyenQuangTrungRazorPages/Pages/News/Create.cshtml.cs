@@ -1,46 +1,60 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using NguyenQuangTrungRazorPages.DAL;
 using NguyenQuangTrungRazorPages.Models;
+using NguyenQuangTrungRazorPages.Services;
+using System;
+using System.Collections.Generic;
+using System.Security.Claims;
+using System.Threading.Tasks;
 
-namespace NguyenQuangTrungRazorPages.Pages.NewsArticle
+namespace NguyenQuangTrungRazorPages.Pages.News
 {
     public class CreateModel : PageModel
     {
-        private readonly NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext _context;
+        private readonly INewsService _newsService;
+        private readonly ITagService _tagService;
+        public List<Models.Category> Categories { get; set; } = new();
+        public List<Models.Tag> Tags { get; set; } = new();
 
-        public CreateModel(NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext context)
+        [BindProperty]
+        public Models.NewsArticle News { get; set; } = new()
         {
-            _context = context;
+            NewsStatus = true // Mặc định là Active (1)
+        };
+        [BindProperty]
+        public List<int> SelectedTags { get; set; } = new();
+        public CreateModel(INewsService newsService, ITagService tagService)
+        {
+            _newsService = newsService;
+            _tagService = tagService;
         }
 
-        public IActionResult OnGet()
+        public async Task<IActionResult> OnGetAsync()
         {
-        ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "CategoryId");
-        ViewData["CreatedById"] = new SelectList(_context.SystemAccounts, "AccountId", "AccountId");
+            Categories = await _newsService.GetCategoriesAsync();
+            Tags = await _tagService.GetAllTagsAsync();
             return Page();
         }
 
-        [BindProperty]
-        public Models.NewsArticle NewsArticle { get; set; } = default!;
-
-        // For more information, see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid)
             {
+                Categories = await _newsService.GetCategoriesAsync();
+                Tags = await _tagService.GetAllTagsAsync();
                 return Page();
             }
 
-            _context.NewsArticles.Add(NewsArticle);
-            await _context.SaveChangesAsync();
+            var userId = HttpContext.Session.GetInt32("UserId") ?? 0;
+            if (userId == 0) return RedirectToPage("/Login");
 
-            return RedirectToPage("./Index");
+            // Thêm Tags vào bài báo
+            News.Tags = await _tagService.GetTagsByIdsAsync(SelectedTags);
+
+            await _newsService.CreateAsync(News, (short)userId);
+            return RedirectToPage("Index");
         }
+
+
     }
 }

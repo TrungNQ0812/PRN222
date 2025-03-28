@@ -1,30 +1,30 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.EntityFrameworkCore;
-using NguyenQuangTrungRazorPages.DAL;
 using NguyenQuangTrungRazorPages.Models;
+using NguyenQuangTrungRazorPages.Services;
 
-namespace NguyenQuangTrungRazorPages.Pages.Category
+namespace NguyenQuangTrungRazorPages.Pages.Categories
 {
     public class IndexModel : PageModel
     {
-        private readonly NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext _context;
+        private readonly ICategoryService _categoryService;
 
-        public IndexModel(NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext context)
+        public IndexModel(ICategoryService categoryService)
         {
-            _context = context;
+            _categoryService = categoryService;
         }
 
-        public IList<Models.Category> Category { get;set; } = default!;
+        public List<Models.Category> Categories { get; set; }
+
+        [BindProperty(SupportsGet = true)]
+        public string Search { get; set; }
+
+        [BindProperty(SupportsGet = true)]
+        public bool SortByIdAsc { get; set; } = true;
 
         public async Task OnGetAsync()
         {
-            Category = await _context.Categories
-                .Include(c => c.ParentCategory).ToListAsync();
+            Categories = await _categoryService.GetAllCategoryAsync(Search, SortByIdAsc);
         }
     }
 }

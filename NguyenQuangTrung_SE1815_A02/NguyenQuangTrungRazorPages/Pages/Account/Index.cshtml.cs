@@ -1,47 +1,31 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.EntityFrameworkCore;
-using NguyenQuangTrungRazorPages.DAL;
 using NguyenQuangTrungRazorPages.Models;
+using NguyenQuangTrungRazorPages.Services;
 
-namespace NguyenQuangTrungRazorPages.Pages.SystemAccount
+namespace NguyenQuangTrungRazorPages.Pages.Account
 {
     public class IndexModel : PageModel
     {
-        private readonly NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext _context;
+        private readonly IAccountService _accountService;
 
-        public IndexModel(NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext context)
+        public IndexModel(IAccountService accountService)
         {
-            _context = context;
+            _accountService = accountService;
         }
 
-        public IList<Models.SystemAccount> SystemAccount { get;set; } = default!;
-        [BindProperty]
-        public string? searchString { get; set; }
-        [BindProperty]
-        public string? accountStatus { get; set; }
+        public List<SystemAccount> Accounts { get; set; } = new();
 
+        [BindProperty(SupportsGet = true)]
+        public string? SearchTerm { get; set; }
+
+        [BindProperty(SupportsGet = true)]
+        public bool SortByIdAsc { get; set; } = true;
 
         public async Task OnGetAsync()
         {
-            var accounts = _context.SystemAccounts.AsQueryable();
-
-            if (!string.IsNullOrEmpty(searchString))
-            {
-                accounts = accounts.Where(a => a.AccountName.Contains(searchString));
-            }
-
-            if (!string.IsNullOrEmpty(accountStatus))
-            {
-                accounts = accounts.Where(a => a.AccountStatus == accountStatus);
-            }
-
-            SystemAccount = await accounts.ToListAsync();
-            //SystemAccount = await _context.SystemAccounts.ToListAsync();
+            Accounts = await _accountService.GetAllAsync(SearchTerm, SortByIdAsc);
         }
     }
+
 }

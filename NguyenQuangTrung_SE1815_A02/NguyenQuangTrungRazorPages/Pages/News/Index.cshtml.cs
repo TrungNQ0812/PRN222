@@ -1,31 +1,33 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.EntityFrameworkCore;
-using NguyenQuangTrungRazorPages.DAL;
 using NguyenQuangTrungRazorPages.Models;
+using NguyenQuangTrungRazorPages.Services;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
-namespace NguyenQuangTrungRazorPages.Pages.NewsArticle
+namespace NguyenQuangTrungRazorPages.Pages.News
 {
     public class IndexModel : PageModel
     {
-        private readonly NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext _context;
+        private readonly INewsService _newsService;
 
-        public IndexModel(NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext context)
+        public IndexModel(INewsService newsService)
         {
-            _context = context;
+            _newsService = newsService;
         }
 
-        public IList<Models.NewsArticle> NewsArticle { get;set; } = default!;
+        public List<Models.NewsArticle> NewsArticles { get; set; } = new();
+
+        [BindProperty(SupportsGet = true)]
+        public string? SearchTerm { get; set; }
+
+        [BindProperty(SupportsGet = true)]
+        public bool SortByIdAsc { get; set; } = true;
 
         public async Task OnGetAsync()
         {
-            NewsArticle = await _context.NewsArticles
-                .Include(n => n.Category)
-                .Include(n => n.CreatedBy).ToListAsync();
+            NewsArticles = await _newsService.GetAllAsync(SearchTerm, SortByIdAsc);
         }
+
     }
 }

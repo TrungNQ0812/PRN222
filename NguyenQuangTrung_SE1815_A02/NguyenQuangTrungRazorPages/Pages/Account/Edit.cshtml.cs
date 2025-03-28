@@ -1,46 +1,34 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
-using NguyenQuangTrungRazorPages.DAL;
 using NguyenQuangTrungRazorPages.Models;
+using NguyenQuangTrungRazorPages.Services;
 
-namespace NguyenQuangTrungRazorPages.Pages.SystemAccount
+namespace NguyenQuangTrungRazorPages.Pages.Account
 {
     public class EditModel : PageModel
     {
-        private readonly NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext _context;
+        private readonly IAccountService _accountService;
 
-        public EditModel(NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext context)
+        public EditModel(IAccountService accountService)
         {
-            _context = context;
+            _accountService = accountService;
         }
 
         [BindProperty]
-        public Models.SystemAccount SystemAccount { get; set; } = default!;
+        public SystemAccount Account { get; set; } = new();
 
-        public async Task<IActionResult> OnGetAsync(short? id)
+        public async Task<IActionResult> OnGetAsync(short id)
         {
-            if (id == null)
+            var account = await _accountService.GetByIdAsync(id);
+            if (account == null)
             {
                 return NotFound();
             }
 
-            var systemaccount =  await _context.SystemAccounts.FirstOrDefaultAsync(m => m.AccountId == id);
-            if (systemaccount == null)
-            {
-                return NotFound();
-            }
-            SystemAccount = systemaccount;
+            Account = account;
             return Page();
         }
 
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more information, see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid)
@@ -48,30 +36,9 @@ namespace NguyenQuangTrungRazorPages.Pages.SystemAccount
                 return Page();
             }
 
-            _context.Attach(SystemAccount).State = EntityState.Modified;
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!SystemAccountExists(SystemAccount.AccountId))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return RedirectToPage("./Index");
-        }
-
-        private bool SystemAccountExists(short id)
-        {
-            return _context.SystemAccounts.Any(e => e.AccountId == id);
+            await _accountService.UpdateAsync(Account);
+            return RedirectToPage("Index");
         }
     }
+
 }
