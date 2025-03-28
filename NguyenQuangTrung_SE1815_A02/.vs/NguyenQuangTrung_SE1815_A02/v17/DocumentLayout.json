@@ -7,16 +7,76 @@
       "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\services\\categoryservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\services\\categoryservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|d:\\code\\prn222\\nguyenquangtrung_se1815_a02\\nguyenquangtrungrazorpages\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|d:\\code\\prn222\\nguyenquangtrung_se1815_a02\\nguyenquangtrungrazorpages\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|d:\\code\\prn222\\nguyenquangtrung_se1815_a02\\nguyenquangtrungrazorpages\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|d:\\code\\prn222\\nguyenquangtrung_se1815_a02\\nguyenquangtrungrazorpages\\pages\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\pages\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|d:\\code\\prn222\\nguyenquangtrung_se1815_a02\\nguyenquangtrungrazorpages\\pages\\account\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\pages\\account\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|d:\\code\\prn222\\nguyenquangtrung_se1815_a02\\nguyenquangtrungrazorpages\\pages\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\pages\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|d:\\code\\prn222\\nguyenquangtrung_se1815_a02\\nguyenquangtrungrazorpages\\pages\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\pages\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|d:\\code\\prn222\\nguyenquangtrung_se1815_a02\\nguyenquangtrungrazorpages\\pages\\account\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\pages\\account\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\pages\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\pages\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\nguyenquangtrungrazorpages.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -25,14 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\pages\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\pages\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\pages\\account\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -51,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\pages\\account\\updateprofile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\services\\categoryservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\services\\categoryservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,24 +111,12 @@
       "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\services\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\services\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\models\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\services\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -101,22 +137,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\repositories\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\repositories\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|solutionrelative:nguyenquangtrungrazorpages\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EED0B66F-B038-47F1-A2C4-003DE324CFE0}|NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj|D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\nguyenquangtrungrazorpages\\pages\\tag\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -298,7 +318,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 182,
+          "SelectedChildIndex": 183,
           "Children": [
             {
               "$type": "Bookmark",
@@ -1018,41 +1038,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Categories\\Index.cshtml",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Categories\\Index.cshtml",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\Categories\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Account\\Create.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\Create.cshtml",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\Account\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T16:02:49.606Z",
+              "WhenOpened": "2025-03-28T03:26:38.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\appsettings.json",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\appsettings.json",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\appsettings.json*",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\appsettings.json*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-07T18:00:26.857Z",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Account\\Delete.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\Delete.cshtml",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\Account\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T03:26:34.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NguyenQuangTrungRazorPages",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-27T05:19:38.937Z"
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Account\\Edit.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\Edit.cshtml",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\Account\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T03:21:17.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:47:26.405Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1062,26 +1096,14 @@
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Categories\\Delete.cshtml.cs",
               "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Categories\\Delete.cshtml.cs",
               "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\Categories\\Delete.cshtml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA3AAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T02:45:55.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\News\\Create.cshtml",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\News\\Create.cshtml",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\News\\Create.cshtml",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\News\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T06:08:40.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "NewsService.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\NewsService.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Services\\NewsService.cs",
@@ -1093,79 +1115,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TagService.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\TagService.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Services\\TagService.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\TagService.cs",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Services\\TagService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "DocumentIndex": 6,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T03:55:37.561Z"
+              "WhenOpened": "2025-03-26T03:49:28.726Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CategoryService .cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\CategoryService .cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Services\\CategoryService .cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\CategoryService .cs",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Services\\CategoryService .cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T03:55:13.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UpdateProfile.cshtml.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\UpdateProfile.cshtml.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Account\\UpdateProfile.cshtml.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\UpdateProfile.cshtml.cs",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\Account\\UpdateProfile.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T03:45:55.081Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ViewProfile.cshtml.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\ViewProfile.cshtml.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Account\\ViewProfile.cshtml.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\ViewProfile.cshtml.cs",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\Account\\ViewProfile.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T03:56:49.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ViewProfile.cshtml",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\ViewProfile.cshtml",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Account\\ViewProfile.cshtml",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\ViewProfile.cshtml",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\Account\\ViewProfile.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T03:56:38.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T10:23:12.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Categories\\Delete.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Categories\\Delete.cshtml",
@@ -1177,12 +1140,242 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Program.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Program.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Program.cs",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T06:59:19.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService .cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\CategoryService .cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Services\\CategoryService .cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\CategoryService .cs",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Services\\CategoryService .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:55:13.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Repositories\\IAccountRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Repositories\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:48:15.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:47:52.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Services\\ICategoryService.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:53:44.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Services\\AccountService.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\AccountService.cs",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Services\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:53:43.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\News\\Create.cshtml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\News\\Create.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\News\\Create.cshtml",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\News\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADgAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T06:08:40.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NguyenQuangTrungRazorPages",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\NguyenQuangTrungRazorPages.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T05:19:38.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Categories\\Index.cshtml",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T16:02:49.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\appsettings.json",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\appsettings.json",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\appsettings.json",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T18:00:26.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Account\\Index.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\Index.cshtml",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\Account\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T02:56:03.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Account\\Index.cshtml.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\Index.cshtml.cs",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\Account\\Index.cshtml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAvwBgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:56:16.238Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:39:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:36:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 25,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\TagService.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Services\\TagService.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\TagService.cs",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Services\\TagService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:55:37.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateProfile.cshtml.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\UpdateProfile.cshtml.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Account\\UpdateProfile.cshtml.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\UpdateProfile.cshtml.cs",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\Account\\UpdateProfile.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:45:55.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ViewProfile.cshtml.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\ViewProfile.cshtml.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Account\\ViewProfile.cshtml.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\ViewProfile.cshtml.cs",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\Account\\ViewProfile.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:56:49.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SystemAccount.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Models\\SystemAccount.cs",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Models\\SystemAccount.cs",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Models\\SystemAccount.cs",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Models\\SystemAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:58:04.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ViewProfile.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\ViewProfile.cshtml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Account\\ViewProfile.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\ViewProfile.cshtml",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\Account\\ViewProfile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T03:56:38.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T10:23:12.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "UpdateProfile.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Account\\UpdateProfile.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Account\\UpdateProfile.cshtml",
@@ -1193,36 +1386,8 @@
               "WhenOpened": "2025-03-26T03:45:29.712Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:36:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Program.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Program.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Program.cs",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T06:59:19.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Services\\ICategoryService.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\ICategoryService.cs",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Services\\ICategoryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T03:53:44.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "INewsService.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\INewsService.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Services\\INewsService.cs",
@@ -1234,7 +1399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "IAccountService.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\IAccountService.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Services\\IAccountService.cs",
@@ -1246,31 +1411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\AccountService.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Services\\AccountService.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\AccountService.cs",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Services\\AccountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T03:53:43.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SystemAccount.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Models\\SystemAccount.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Models\\SystemAccount.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Models\\SystemAccount.cs",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Models\\SystemAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T03:58:04.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "ITagService.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Services\\ITagService.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Services\\ITagService.cs",
@@ -1282,7 +1423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "NewsRepository.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\NewsRepository.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Repositories\\NewsRepository.cs",
@@ -1294,7 +1435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "TagRepository.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\TagRepository.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Repositories\\TagRepository.cs",
@@ -1306,7 +1447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "ITagRepository.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\ITagRepository.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Repositories\\ITagRepository.cs",
@@ -1318,7 +1459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "INewsRepository.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\INewsRepository.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Repositories\\INewsRepository.cs",
@@ -1330,55 +1471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Repositories\\ICategoryRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\ICategoryRepository.cs",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Repositories\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T03:47:52.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IAccountRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\IAccountRepository.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Repositories\\IAccountRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\IAccountRepository.cs",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Repositories\\IAccountRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T03:48:15.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T03:49:28.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AccountRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\AccountRepository.cs",
-              "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Repositories\\AccountRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Repositories\\AccountRepository.cs",
-              "RelativeToolTip": "NguyenQuangTrungRazorPages\\Repositories\\AccountRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T03:47:26.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Tag\\Delete.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Tag\\Delete.cshtml",
@@ -1390,7 +1483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Tag\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Tag\\Details.cshtml.cs",
@@ -1402,7 +1495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Tag\\Create.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Tag\\Create.cshtml",
@@ -1414,7 +1507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Tag\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Tag\\Delete.cshtml.cs",
@@ -1426,7 +1519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Index.cshtml",
@@ -1438,7 +1531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Tag\\Details.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Tag\\Details.cshtml",
@@ -1450,7 +1543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Tag\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Tag\\Edit.cshtml.cs",
@@ -1462,7 +1555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Tag\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Tag\\Create.cshtml.cs",
@@ -1474,7 +1567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Tag\\Index.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Tag\\Index.cshtml",
@@ -1486,7 +1579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Tag\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Tag\\Index.cshtml.cs",
@@ -1498,7 +1591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 44,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Tag\\Edit.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Tag\\Edit.cshtml",
@@ -1510,7 +1603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 48,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Index.cshtml.cs",
@@ -1522,7 +1615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 49,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Index.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Index.cshtml",
@@ -1534,7 +1627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 50,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Delete.cshtml.cs",
@@ -1546,7 +1639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 51,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Delete.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Delete.cshtml",
@@ -1558,7 +1651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 52,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Details.cshtml.cs",
@@ -1570,7 +1663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 53,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Edit.cshtml.cs",
@@ -1582,7 +1675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 54,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Create.cshtml.cs",
@@ -1594,7 +1687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 55,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Details.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Details.cshtml",
@@ -1606,7 +1699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 56,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Edit.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Edit.cshtml",
@@ -1618,7 +1711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 57,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Create.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\SystemAccount\\Create.cshtml",
@@ -1630,7 +1723,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 58,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Category\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Category\\Index.cshtml.cs",
@@ -1642,7 +1735,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 59,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Category\\Index.cshtml",
@@ -1654,7 +1747,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 60,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Category\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Category\\Delete.cshtml.cs",
@@ -1666,7 +1759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 61,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Category\\Delete.cshtml",
@@ -1678,7 +1771,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 62,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Category\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Category\\Details.cshtml.cs",
@@ -1690,7 +1783,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 63,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Category\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Category\\Edit.cshtml.cs",
@@ -1702,7 +1795,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 64,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Category\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Category\\Create.cshtml.cs",
@@ -1714,7 +1807,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 65,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Category\\Details.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Category\\Details.cshtml",
@@ -1726,7 +1819,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 66,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Category\\Edit.cshtml",
@@ -1738,7 +1831,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 67,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Category\\Create.cshtml",
@@ -1750,7 +1843,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 68,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Index.cshtml.cs",
@@ -1762,7 +1855,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 69,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Index.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Index.cshtml",
@@ -1774,7 +1867,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 70,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Delete.cshtml.cs",
@@ -1786,7 +1879,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 71,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Details.cshtml.cs",
@@ -1798,7 +1891,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 72,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Details.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Details.cshtml",
@@ -1810,7 +1903,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 73,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Edit.cshtml.cs",
@@ -1822,7 +1915,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 74,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Create.cshtml.cs",
@@ -1834,7 +1927,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 75,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Delete.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Delete.cshtml",
@@ -1846,7 +1939,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 76,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Create.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\NewsArticle\\Create.cshtml",
@@ -1858,7 +1951,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 45,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -1870,7 +1963,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 47,
               "Title": "NewsArticle.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Models\\NewsArticle.cs",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Models\\NewsArticle.cs",
@@ -1882,7 +1975,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 46,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "D:\\Code\\PRN222\\NguyenQuangTrung_SE1815_A02\\NguyenQuangTrungRazorPages\\Pages\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "NguyenQuangTrungRazorPages\\Pages\\Shared\\_Layout.cshtml.css",

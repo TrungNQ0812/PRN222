@@ -20,10 +20,28 @@ namespace NguyenQuangTrungRazorPages.Pages.SystemAccount
         }
 
         public IList<Models.SystemAccount> SystemAccount { get;set; } = default!;
+        [BindProperty]
+        public string? searchString { get; set; }
+        [BindProperty]
+        public string? accountStatus { get; set; }
+
 
         public async Task OnGetAsync()
         {
-            SystemAccount = await _context.SystemAccounts.ToListAsync();
+            var accounts = _context.SystemAccounts.AsQueryable();
+
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                accounts = accounts.Where(a => a.AccountName.Contains(searchString));
+            }
+
+            if (!string.IsNullOrEmpty(accountStatus))
+            {
+                accounts = accounts.Where(a => a.AccountStatus == accountStatus);
+            }
+
+            SystemAccount = await accounts.ToListAsync();
+            //SystemAccount = await _context.SystemAccounts.ToListAsync();
         }
     }
 }

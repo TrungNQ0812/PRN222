@@ -58,14 +58,21 @@ namespace NguyenQuangTrungRazorPages.Repositories
             await _context.SaveChangesAsync();
         }
 
-        public async Task DeleteAsync(short id)
+        public async Task<bool> DeleteAsync(short? id)
         {
-            var category = await _context.Categories.FindAsync(id);
-            if (category != null)
+            var category = await _context.Categories.Include(c => c.NewsArticles).FirstOrDefaultAsync(c => c.CategoryId == id);
+
+            if (category == null)
+            {
+                return;
+            }
+
+            if (category != null && category.NewsArticles == null)
             {
                 _context.Categories.Remove(category);
                 await _context.SaveChangesAsync();
             }
+            
         }
 
     }

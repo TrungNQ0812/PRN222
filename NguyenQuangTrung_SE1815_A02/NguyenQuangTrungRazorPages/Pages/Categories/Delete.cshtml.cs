@@ -7,16 +7,19 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using NguyenQuangTrungRazorPages.DAL;
 using NguyenQuangTrungRazorPages.Models;
+using NguyenQuangTrungRazorPages.Repositories;
+using NguyenQuangTrungRazorPages.Services;
 
 namespace NguyenQuangTrungRazorPages.Pages.Category
 {
     public class DeleteModel : PageModel
     {
         private readonly NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext _context;
-
-        public DeleteModel(NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext context)
+        private readonly CategoryService _cateService;
+        public DeleteModel(NguyenQuangTrungRazorPages.DAL.FuNewsManagementContext context, CategoryService cateService)
         {
             _context = context;
+            _cateService = cateService;
         }
 
         [BindProperty]
@@ -49,13 +52,14 @@ namespace NguyenQuangTrungRazorPages.Pages.Category
                 return NotFound();
             }
 
-            var category = await _context.Categories.FindAsync(id);
-            if (category != null)
-            {
-                Category = category;
-                _context.Categories.Remove(Category);
-                await _context.SaveChangesAsync();
-            }
+            _cateService.DeleteAsync(id);
+            //var category = await _context.Categories.FindAsync(id);
+            //if (category != null)
+            //{
+            //    Category = category;
+            //    _context.Categories.Remove(Category);
+            //    await _context.SaveChangesAsync();
+            //}
 
             return RedirectToPage("./Index");
         }

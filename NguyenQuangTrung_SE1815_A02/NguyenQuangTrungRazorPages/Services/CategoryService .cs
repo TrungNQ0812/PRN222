@@ -38,7 +38,7 @@ namespace NguyenQuangTrungRazorPages.Services
             await _categoryRepository.UpdateAsync(category);
         }
 
-        public async Task DeleteAsync(short id)
+        public async Task DeleteAsync(short? id)
         {
             await _categoryRepository.DeleteAsync(id);
         }

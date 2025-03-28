@@ -10,6 +10,21 @@
 <p>
     <a asp-page="Create">Create New</a>
 </p>
+
+<form method="get">
+    <p>
+        Search by Name:
+        <input type="text" name="SearchString" value="@Model.searchString" />
+        Filter by Status:
+        <select name="accountStatus">
+            <option value="">All</option>
+            <option value="Activate">Active</option>
+            <option value="Deactivate">Deactive</option>
+        </select>
+        <input type="submit" value="Search" />
+    </p>
+</form>
+ 
 <table class="table">
     <thead>
         <tr>

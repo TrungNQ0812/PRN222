@@ -36,9 +36,13 @@
             </div>
             <div class="form-group">
                 <label asp-for="SystemAccount.AccountStatus" class="control-label"></label>
-                <input asp-for="SystemAccount.AccountStatus" class="form-control" />
+                <select asp-for="SystemAccount.AccountStatus" class="form-control">
+                    <option value="Activate">Active</option>
+                    <option value="Deactivate">Deactive</option>
+                </select>
                 <span asp-validation-for="SystemAccount.AccountStatus" class="text-danger"></span>
             </div>
+
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
             </div>
