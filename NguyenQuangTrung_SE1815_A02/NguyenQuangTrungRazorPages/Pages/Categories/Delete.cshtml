@@ -2,9 +2,15 @@
 @model NguyenQuangTrungRazorPages.Pages.Categories.DeleteModel
 <h2>Are you sure you want to delete this category?</h2>
 
+@if (!string.IsNullOrEmpty(Model.ErrorMessage))
+{
+    <div class="alert alert-danger">@Model.ErrorMessage</div> <!-- Hiển thị lỗi -->
+}
+
 <form method="post">
     <input type="hidden" asp-for="CategoryId" />
 
     <button type="submit" class="btn btn-danger">Delete</button>
-    <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+    <a asp-page="Index" class="btn btn-secondary">Back</a>
+
 </form>
