@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NguyenQuangTrungRazorPages")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73b75d8a0c9feec48167ef7681b9da0a023f4282")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d68ddc6e9c3cf3fb769cd57a45a6341bbf92835")]
 [assembly: System.Reflection.AssemblyProductAttribute("NguyenQuangTrungRazorPages")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NguyenQuangTrungRazorPages")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

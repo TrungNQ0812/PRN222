@@ -32,9 +32,9 @@
                 @Html.DisplayFor(modelItem => item.Note)
             </td>
             <td>
-                <a asp-page="./Edit" asp-route-id="@item.TagId">Edit</a> |
-                <a asp-page="./Details" asp-route-id="@item.TagId">Details</a> |
-                <a asp-page="./Delete" asp-route-id="@item.TagId">Delete</a>
+                    <a asp-page="./Edit" asp-route-id="@item.TagId" class="btn btn-warning btn-sm">Edit</a> 
+                    <a asp-page="./Details" asp-route-id="@item.TagId" class="btn btn-success btn-sm">Details</a> 
+                    <a asp-page="./Delete" asp-route-id="@item.TagId" class="btn btn-danger btn-sm">Delete</a>
             </td>
         </tr>
 }
