@@ -1,4 +1,16 @@
-﻿CREATE DATABASE InternalDocumentManagement;
+﻿USE [master]
+GO
+
+IF EXISTS (SELECT name FROM master.dbo.sysdatabases WHERE name = N'InternalDocumentManagement')
+BEGIN
+	ALTER DATABASE InternalDocumentManagement SET OFFLINE WITH ROLLBACK IMMEDIATE;
+	ALTER DATABASE InternalDocumentManagement SET ONLINE;
+	DROP DATABASE InternalDocumentManagement;
+END
+
+GO
+
+CREATE DATABASE InternalDocumentManagement;
 GO
 USE InternalDocumentManagement;
 GO
@@ -57,6 +69,27 @@ CREATE TABLE Document (
     FOREIGN KEY (CategoryId) REFERENCES Category(CategoryId)
 );
 
+-- Bảng PermissionType (Định nghĩa các loại quyền)
+CREATE TABLE Permission (
+    PermissionId INT PRIMARY KEY IDENTITY(1,1),
+    PermissionName NVARCHAR(50) NOT NULL UNIQUE
+);
+
+INSERT INTO Permission (PermissionName) VALUES ('Read Only');  -- 1: Chỉ xem
+INSERT INTO Permission (PermissionName) VALUES ('Can Edit');   -- 2: Có thể sửa
+INSERT INTO Permission (PermissionName) VALUES ('Can Delete'); -- 3: Có thể xóa
+
+-- Bảng AccountPermission (Lưu quyền của từng tài khoản)
+CREATE TABLE AccountPermission (
+    AccountPermissionId INT PRIMARY KEY IDENTITY(1,1),
+    AccountId INT NOT NULL,        -- Tài khoản nào
+    PermissionId INT NOT NULL, -- Quyền gì
+
+    FOREIGN KEY (AccountId) REFERENCES Account(AccountId) ON DELETE CASCADE,
+    FOREIGN KEY (PermissionId) REFERENCES Permission(PermissionId) ON DELETE CASCADE
+);
+
+
 -- Insert giá trị hợp lệ
 INSERT INTO Category (CategoryName) VALUES
 ('Public'),
@@ -78,7 +111,6 @@ INSERT INTO AccountStatus(StatusName) VALUES
 ('Inactive');
 
 INSERT INTO Role(RoleName) VALUES
-('Admin'),
 ('Manager'),
 ('Leader'),
 ('Staff'),
@@ -90,7 +122,7 @@ INSERT INTO Account (Username, Password, RoleId, PhoneNumber, AccountStatusId, E
 ('manager01', 'hashedpassword2', 2, '0987654321', 1, 'manager01@example.com', 'Manager User'),
 ('leader01', 'hashedpassword3', 3, '0909090909', 1, 'leader01@example.com', 'Leader User'),
 ('staff01', 'hashedpassword4', 4, '0919191919', 1, 'staff01@example.com', 'Staff User'),
-('intern01', 'hashedpassword5', 6, '0929292929', 2, 'intern01@example.com', 'Intern User');
+('intern01', 'hashedpassword5', 5, '0929292929', 2, 'intern01@example.com', 'Intern User');
 
 INSERT INTO Document (DocumentContent, DocumentTitle, DocumentStatusId, AccountId, CategoryId) VALUES
 ('Nội dung tài liệu công khai 1', 'Public Document 1', 2, 1, 1),

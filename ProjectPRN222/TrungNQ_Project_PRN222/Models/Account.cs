@@ -23,6 +23,8 @@ public partial class Account
 
     public DateTime? CreateAt { get; set; }
 
+    public virtual ICollection<AccountPermission> AccountPermissions { get; set; } = new List<AccountPermission>();
+
     public virtual AccountStatus AccountStatus { get; set; } = null!;
 
     public virtual ICollection<Document> Documents { get; set; } = new List<Document>();

@@ -55,8 +55,6 @@ namespace TrungNQ_Project_PRN222.Controllers
         }
 
         // POST: Accounts/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("AccountId,Username,Password,RoleId,PhoneNumber,AccountStatusId,Email,FullName,CreateAt")] Account account)
@@ -90,9 +88,6 @@ namespace TrungNQ_Project_PRN222.Controllers
             return View(account);
         }
 
-        // POST: Accounts/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("AccountId,Username,Password,RoleId,PhoneNumber,AccountStatusId,Email,FullName,CreateAt")] Account account)

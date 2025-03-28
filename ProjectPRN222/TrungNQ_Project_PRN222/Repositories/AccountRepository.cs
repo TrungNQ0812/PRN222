@@ -1,4 +1,5 @@
-﻿using TrungNQ_Project_PRN222.DAL;
+﻿using Microsoft.EntityFrameworkCore;
+using TrungNQ_Project_PRN222.DAL;
 using TrungNQ_Project_PRN222.Models;
 
 namespace TrungNQ_Project_PRN222.Repositories
@@ -14,9 +15,13 @@ namespace TrungNQ_Project_PRN222.Repositories
 
         List<Account> Accounts = new List<Account>();
 
+
+
+
         public void AddAccount(Account acc)
         {
             context.Accounts.Add(acc);
+            context.SaveChanges();
         }
 
         public void DeleteAccount(int id)
@@ -24,18 +29,33 @@ namespace TrungNQ_Project_PRN222.Repositories
             Account finder = context.Accounts.FirstOrDefault(e => e.AccountId == id);
             if (finder != null)
             {
-               context.Remove(finder);
+                finder.AccountStatusId = 2; // 1-Active 2-Inactive
             }
+            context.SaveChanges();
         }
 
-        public void EditAccount(int id)
+        public void UpdateAccount(Account acc)
         {
-            Account EditTarget = context.Accounts.FirstOrDefault(e => e.AccountId == id);
-
-            
+            context.Accounts.Update(acc);
+            context.SaveChanges();
         }
 
-        public List<Account> GetAccount()
+        public Account GetAccountByEmail(string email)
+        {
+            var result = context.Accounts.FirstOrDefault(a => a.Email == email);
+            if(result != null)
+            {
+                return result;
+            }
+            return null;
+        }
+
+        public int GetAccountCount()
+        {
+            return context.Accounts.Count();
+        }
+
+        public List<Account> GetAccounts()
         {
             return Accounts = context.Accounts.ToList();
         }

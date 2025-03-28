@@ -1,16 +1,24 @@
-using TrungNQ_Project_PRN222.DAL;
+﻿using TrungNQ_Project_PRN222.DAL;
 using TrungNQ_Project_PRN222.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30); // Thời gian hết hạn session
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
+//--------------------------------------------------------------------------------------------------------------------
 builder.Services.AddSqlServer<InternalDocumentManagementContext>
     (builder.Configuration.GetConnectionString("InternalDocumentManagement")); // Add context when no hard code
 
 builder.Services.AddScoped(typeof(InternalDocumentManagementContext));
-
-
+//--------------------------------------------------------------------------------------------------------------------
+builder.Services.AddScoped<IAccountRepository, AccountRepository>();
+builder.Services.AddScoped<AccountRepository>();
 
 builder.Services.AddControllersWithViews();
 var app = builder.Build();
@@ -21,6 +29,8 @@ if (!app.Environment.IsDevelopment())
     app.UseExceptionHandler("/Index");
 }
 app.UseStaticFiles();
+
+app.UseSession();
 
 app.UseRouting();
 

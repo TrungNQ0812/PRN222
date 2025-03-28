@@ -28,6 +28,57 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="AccountStatus" asp-action="Index">AccountStatus</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Index">Account</a>
+                        </li>
+                        @if (Context.Session.GetString("Email") != null)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Logout">Logout (@Context.Session.GetString("Email"))</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Login">Login</a>
+                            </li>
+                        }
+                        @if (Context.Session.GetString("Role") == "0")
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Accounts" asp-action="Profile">Admin</a>
+                            </li>
+                        }
+                        @if (Context.Session.GetString("Role") == "1")
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Accounts" asp-action="Profile">Manager</a>
+                            </li>
+                        }
+                        @if (Context.Session.GetString("Role") == "2")
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Accounts" asp-action="Profile">Leader</a>
+                            </li>
+                        }
+                        @if (Context.Session.GetString("Role") == "3")
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Accounts" asp-action="Profile">Staff</a>
+                            </li>
+                        }
+                        @if (Context.Session.GetString("Role") == "4")
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Accounts" asp-action="Profile">Fresher</a>
+                            </li>
+                        }
+                        @if (Context.Session.GetString("Role") == "5")
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Accounts" asp-action="Profile">Intern</a>
+                            </li>
+                        }
                     </ul>
                 </div>
             </div>
