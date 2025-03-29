@@ -72,6 +72,11 @@ namespace TrungNQ_Project_PRN222.Controllers
         {
             //var DocumentList = 
             var accountId = HttpContext.Session.GetString("AccountID");
+
+            if (string.IsNullOrEmpty(accountId))
+            {
+                return RedirectToAction("Login", "Account"); // Chuyển hướng nếu chưa đăng nhập
+            }
             ViewBag.AccountId = int.Parse(accountId); // Truyền AccountId vào ViewBag
 
             ViewBag.DocumentStatusId = DSRepo.GetAllDocumentStatus().Select(ds => new SelectListItem
@@ -95,7 +100,6 @@ namespace TrungNQ_Project_PRN222.Controllers
             document.AccountId = int.Parse(accountId); // Gán AccountId từ session
             document.CreateAt = DateTime.Now;
             document.UpdateAt = DateTime.Now;
-
             if (!ModelState.IsValid)
             {
                 foreach (var error in ModelState.Values.SelectMany(v => v.Errors))
@@ -122,6 +126,12 @@ namespace TrungNQ_Project_PRN222.Controllers
         // GET: DocumentsController/Edit/5
         public ActionResult Edit(int id)
         {
+            var accountId = HttpContext.Session.GetString("AccountID");
+
+            if (string.IsNullOrEmpty(accountId))
+            {
+                return RedirectToAction("Login", "Account"); // Chuyển hướng nếu chưa đăng nhập
+            }
             return View();
         }
 
@@ -130,6 +140,12 @@ namespace TrungNQ_Project_PRN222.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, IFormCollection collection)
         {
+            var accountId = HttpContext.Session.GetString("AccountID");
+
+            if (string.IsNullOrEmpty(accountId))
+            {
+                return RedirectToAction("Login", "Account"); // Chuyển hướng nếu chưa đăng nhập
+            }
             try
             {
                 return RedirectToAction(nameof(Index));
@@ -151,6 +167,13 @@ namespace TrungNQ_Project_PRN222.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id, IFormCollection collection)
         {
+            var accountId = HttpContext.Session.GetString("AccountID");
+
+            if (string.IsNullOrEmpty(accountId))
+            {
+                return RedirectToAction("Login", "Account"); // Chuyển hướng nếu chưa đăng nhập
+            }
+
             try
             {
                 return RedirectToAction(nameof(Index));

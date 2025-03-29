@@ -22,12 +22,26 @@ namespace TrungNQ_Project_PRN222.Controllers
         // GET: Categories
         public async Task<IActionResult> Index()
         {
+            var accountId = HttpContext.Session.GetString("AccountID");
+
+            if (string.IsNullOrEmpty(accountId))
+            {
+                return RedirectToAction("Login", "Home"); // Chuyển hướng nếu chưa đăng nhập
+            }
+
             return View(await _context.Categories.ToListAsync());
         }
 
         // GET: Categories/Details/5
         public async Task<IActionResult> Details(int? id)
         {
+            var accountId = HttpContext.Session.GetString("AccountID");
+
+            if (string.IsNullOrEmpty(accountId))
+            {
+                return RedirectToAction("Login", "Home"); // Chuyển hướng nếu chưa đăng nhập
+            }
+
             if (id == null)
             {
                 return NotFound();
@@ -46,6 +60,13 @@ namespace TrungNQ_Project_PRN222.Controllers
         // GET: Categories/Create
         public IActionResult Create()
         {
+            var accountId = HttpContext.Session.GetString("AccountID");
+
+            if (string.IsNullOrEmpty(accountId))
+            {
+                return RedirectToAction("Login", "Home"); // Chuyển hướng nếu chưa đăng nhập
+            }
+
             return View();
         }
 
@@ -54,6 +75,13 @@ namespace TrungNQ_Project_PRN222.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("CategoryId,CategoryName")] Category category)
         {
+            var accountId = HttpContext.Session.GetString("AccountID");
+
+            if (string.IsNullOrEmpty(accountId))
+            {
+                return RedirectToAction("Login", "Home"); // Chuyển hướng nếu chưa đăng nhập
+            }
+
             if (ModelState.IsValid)
             {
                 _context.Add(category);

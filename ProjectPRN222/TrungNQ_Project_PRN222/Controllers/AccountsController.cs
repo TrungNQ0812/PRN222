@@ -24,6 +24,13 @@ namespace TrungNQ_Project_PRN222.Controllers
         // GET: Accounts
         public ActionResult Index()
         {
+            var accountId = HttpContext.Session.GetString("AccountID");
+
+            if (string.IsNullOrEmpty(accountId))
+            {
+                return RedirectToAction("Login", "Home"); // Chuyển hướng nếu chưa đăng nhập
+            }
+
             var finder = _accountRepository.GetAccounts();
             return View(finder);
         }
@@ -31,6 +38,14 @@ namespace TrungNQ_Project_PRN222.Controllers
         // GET: Accounts/Details/5
         public async Task<IActionResult> Details(int? id)
         {
+
+            var accountId = HttpContext.Session.GetString("AccountID");
+
+            if (string.IsNullOrEmpty(accountId))
+            {
+                return RedirectToAction("Login", "Home"); // Chuyển hướng nếu chưa đăng nhập
+            }
+
             if (id == null)
             {
                 return NotFound();
@@ -48,6 +63,12 @@ namespace TrungNQ_Project_PRN222.Controllers
         // GET: Accounts/Create
         public ActionResult Create()
         {
+            var accountId = HttpContext.Session.GetString("AccountID");
+
+            if (string.IsNullOrEmpty(accountId))
+            {
+                return RedirectToAction("Login", "Home"); // Chuyển hướng nếu chưa đăng nhập
+            }
 
             return View();
         }
@@ -57,7 +78,14 @@ namespace TrungNQ_Project_PRN222.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create(Account account)
         {
-            
+
+            var accountId = HttpContext.Session.GetString("AccountID");
+
+            if (string.IsNullOrEmpty(accountId))
+            {
+                return RedirectToAction("Login", "Home"); // Chuyển hướng nếu chưa đăng nhập
+            }
+
             if (!ModelState.IsValid)
             {
                 var errors = ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage);
@@ -77,6 +105,14 @@ namespace TrungNQ_Project_PRN222.Controllers
         // GET: Accounts/Edit/5
         public ActionResult Edit(int? id)
         {
+
+            var accountId = HttpContext.Session.GetString("AccountID");
+
+            if (string.IsNullOrEmpty(accountId))
+            {
+                return RedirectToAction("Login", "Home"); // Chuyển hướng nếu chưa đăng nhập
+            }
+
             if (id == null)
             {
                 return NotFound();
@@ -96,6 +132,14 @@ namespace TrungNQ_Project_PRN222.Controllers
         
         public ActionResult Edit(int id, Account account)
         {
+
+            var accountId = HttpContext.Session.GetString("AccountID");
+
+            if (string.IsNullOrEmpty(accountId))
+            {
+                return RedirectToAction("Login", "Home"); // Chuyển hướng nếu chưa đăng nhập
+            }
+
             if (id != account.AccountId)
             {
                 return NotFound();
@@ -131,7 +175,12 @@ namespace TrungNQ_Project_PRN222.Controllers
         // GET: Accounts/Delete/5
         public ActionResult Delete(int? id)
         {
+            var accountId = HttpContext.Session.GetString("AccountID");
 
+            if (string.IsNullOrEmpty(accountId))
+            {
+                return RedirectToAction("Login", "Account"); // Chuyển hướng nếu chưa đăng nhập
+            }
             return View();
         }
 
@@ -140,6 +189,13 @@ namespace TrungNQ_Project_PRN222.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id, IFormCollection collection)
         {
+            var accountId = HttpContext.Session.GetString("AccountID");
+
+            if (string.IsNullOrEmpty(accountId))
+            {
+                return RedirectToAction("Login", "Home"); // Chuyển hướng nếu chưa đăng nhập
+            }
+
             var account =  _accountRepository.GetAccountById(id);
             if (account == null)
             {
