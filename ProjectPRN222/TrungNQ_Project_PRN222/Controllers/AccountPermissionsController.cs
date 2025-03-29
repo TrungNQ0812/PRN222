@@ -126,7 +126,6 @@ namespace TrungNQ_Project_PRN222.Controllers
             return View(accountPermission);
         }
 
-        // GET: AccountPermissions/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -146,7 +145,7 @@ namespace TrungNQ_Project_PRN222.Controllers
             return View(accountPermission);
         }
 
-        // POST: AccountPermissions/Delete/5
+
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
