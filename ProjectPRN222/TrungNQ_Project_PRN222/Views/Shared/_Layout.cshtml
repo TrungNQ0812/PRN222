@@ -29,7 +29,10 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="AccountStatus" asp-action="Index">AccountStatus</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Index">Account</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Accounts" asp-action="Index">Accounts</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Documents" asp-action="Index">Documents</a>
                         </li>
                         @if (Context.Session.GetString("Email") != null)
                         {

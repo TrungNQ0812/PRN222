@@ -19,9 +19,4 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Filter\" />
-    <Folder Include="Views\Permission\" />
-  </ItemGroup>
-
 </Project>

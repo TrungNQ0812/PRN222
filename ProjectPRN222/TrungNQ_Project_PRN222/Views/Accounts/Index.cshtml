@@ -61,10 +61,10 @@
                 @Html.DisplayFor(modelItem => item.CreateAt)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.AccountStatus.StatusId)
+                @Html.DisplayFor(modelItem => item.AccountStatus)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Role.RoleId)
+                @Html.DisplayFor(modelItem => item.Role)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.AccountId">Edit</a> |

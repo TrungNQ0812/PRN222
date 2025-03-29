@@ -70,11 +70,11 @@ namespace TrungNQ_Project_PRN222.Controllers
                 return RedirectToAction("Login");
             }
             // 🔹 Kiểm tra role hợp lệ (1 = Manager, 2 = Leader, 3 = Staff, 4 = Fresher, 5 = Intern)
-            if (findInDB.RoleId == 1 || findInDB.RoleId == 2 || findInDB.RoleId == 3 || findInDB.RoleId == 4 || findInDB.RoleId == 5)
+            if (findInDB.Role == 1 || findInDB.Role == 2 || findInDB.Role == 3 )
             {
                 HttpContext.Session.SetString("AccountID", findInDB.AccountId.ToString());
                 HttpContext.Session.SetString("Email", email);
-                HttpContext.Session.SetString("Role", findInDB.RoleId.ToString());
+                HttpContext.Session.SetString("Role", findInDB.Role.ToString());
 
                 return RedirectToAction("Index");
             }

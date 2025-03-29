@@ -29,9 +29,10 @@ namespace TrungNQ_Project_PRN222.Repositories
             Account finder = context.Accounts.FirstOrDefault(e => e.AccountId == id);
             if (finder != null)
             {
-                finder.AccountStatusId = 2; // 1-Active 2-Inactive
+                finder.AccountStatus = 0; // 1-Active 0-Inactive
+                context.SaveChanges();
             }
-            context.SaveChanges();
+
         }
 
         public void UpdateAccount(Account acc)
@@ -50,6 +51,16 @@ namespace TrungNQ_Project_PRN222.Repositories
             return null;
         }
 
+        public Account GetAccountById(int? Id)
+        {
+            var account = context.Accounts.FirstOrDefault(c => c.AccountId == Id);
+            if (account != null)
+            {
+                return account;
+            }
+            return null;
+        }
+
         public int GetAccountCount()
         {
             return context.Accounts.Count();
@@ -57,7 +68,7 @@ namespace TrungNQ_Project_PRN222.Repositories
 
         public List<Account> GetAccounts()
         {
-            return Accounts = context.Accounts.ToList();
+            return Accounts = context.Accounts.Where(c => c.AccountStatus == 1).ToList();
         }
     }
 }

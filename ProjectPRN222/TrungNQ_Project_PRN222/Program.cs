@@ -19,7 +19,8 @@ builder.Services.AddScoped(typeof(InternalDocumentManagementContext));
 //--------------------------------------------------------------------------------------------------------------------
 builder.Services.AddScoped<IAccountRepository, AccountRepository>();
 builder.Services.AddScoped<AccountRepository>();
-
+builder.Services.AddScoped<IDocumentRepository, DocumentRepository>();
+builder.Services.AddScoped<DocumentRepository>();
 builder.Services.AddControllersWithViews();
 var app = builder.Build();
 

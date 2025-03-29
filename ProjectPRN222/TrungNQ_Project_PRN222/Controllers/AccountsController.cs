@@ -6,24 +6,26 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using TrungNQ_Project_PRN222.DAL;
+using TrungNQ_Project_PRN222.Filter;
 using TrungNQ_Project_PRN222.Models;
+using TrungNQ_Project_PRN222.Repositories;
 
 namespace TrungNQ_Project_PRN222.Controllers
 {
     public class AccountsController : Controller
     {
-        private readonly InternalDocumentManagementContext _context;
-
-        public AccountsController(InternalDocumentManagementContext context)
+        
+        private readonly AccountRepository _accountRepository;
+        public AccountsController(AccountRepository accountRepository)
         {
-            _context = context;
+            _accountRepository = accountRepository;
         }
 
         // GET: Accounts
-        public async Task<IActionResult> Index()
+        public ActionResult Index()
         {
-            var internalDocumentManagementContext = _context.Accounts.Include(a => a.AccountStatus).Include(a => a.Role);
-            return View(await internalDocumentManagementContext.ToListAsync());
+            var finder = _accountRepository.GetAccounts();
+            return View(finder);
         }
 
         // GET: Accounts/Details/5
@@ -34,10 +36,7 @@ namespace TrungNQ_Project_PRN222.Controllers
                 return NotFound();
             }
 
-            var account = await _context.Accounts
-                .Include(a => a.AccountStatus)
-                .Include(a => a.Role)
-                .FirstOrDefaultAsync(m => m.AccountId == id);
+            var account = _accountRepository.GetAccountById(id);
             if (account == null)
             {
                 return NotFound();
@@ -47,119 +46,116 @@ namespace TrungNQ_Project_PRN222.Controllers
         }
 
         // GET: Accounts/Create
-        public IActionResult Create()
+        [AuthorizeRole("0")]
+        public ActionResult Create()
         {
-            ViewData["AccountStatusId"] = new SelectList(_context.AccountStatuses, "StatusId", "StatusId");
-            ViewData["RoleId"] = new SelectList(_context.Roles, "RoleId", "RoleId");
+
             return View();
         }
 
         // POST: Accounts/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("AccountId,Username,Password,RoleId,PhoneNumber,AccountStatusId,Email,FullName,CreateAt")] Account account)
+        [AuthorizeRole("0")]
+        public ActionResult Create(Account account)
         {
-            if (ModelState.IsValid)
+            
+            if (!ModelState.IsValid)
             {
-                _context.Add(account);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                var errors = ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage);
+                foreach (var error in errors)
+                {
+                    Console.WriteLine(error);
+                }
+
+                return View(account);
             }
-            ViewData["AccountStatusId"] = new SelectList(_context.AccountStatuses, "StatusId", "StatusId", account.AccountStatusId);
-            ViewData["RoleId"] = new SelectList(_context.Roles, "RoleId", "RoleId", account.RoleId);
-            return View(account);
+           
+
+                _accountRepository.AddAccount(account);
+                return RedirectToAction("Index");
         }
 
         // GET: Accounts/Edit/5
-        public async Task<IActionResult> Edit(int? id)
+        public ActionResult Edit(int? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var account = await _context.Accounts.FindAsync(id);
-            if (account == null)
+            Account acc = _accountRepository.GetAccountById(id);
+            if (acc == null)
             {
                 return NotFound();
             }
-            ViewData["AccountStatusId"] = new SelectList(_context.AccountStatuses, "StatusId", "StatusId", account.AccountStatusId);
-            ViewData["RoleId"] = new SelectList(_context.Roles, "RoleId", "RoleId", account.RoleId);
-            return View(account);
+
+            return View(acc);
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("AccountId,Username,Password,RoleId,PhoneNumber,AccountStatusId,Email,FullName,CreateAt")] Account account)
+        [AuthorizeRole("0")]
+        public ActionResult Edit(int id, Account account)
         {
             if (id != account.AccountId)
             {
                 return NotFound();
             }
 
-            if (ModelState.IsValid)
-            {
-                try
-                {
-                    _context.Update(account);
-                    await _context.SaveChangesAsync();
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!AccountExists(account.AccountId))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
-                return RedirectToAction(nameof(Index));
-            }
-            ViewData["AccountStatusId"] = new SelectList(_context.AccountStatuses, "StatusId", "StatusId", account.AccountStatusId);
-            ViewData["RoleId"] = new SelectList(_context.Roles, "RoleId", "RoleId", account.RoleId);
-            return View(account);
-        }
+            var existingAccount = _accountRepository.GetAccountById(id);
 
-        // GET: Accounts/Delete/5
-        public async Task<IActionResult> Delete(int? id)
-        {
-            if (id == null)
+
+            if(existingAccount == null)
             {
                 return NotFound();
             }
 
-            var account = await _context.Accounts
-                .Include(a => a.AccountStatus)
-                .Include(a => a.Role)
-                .FirstOrDefaultAsync(m => m.AccountId == id);
+            if (!ModelState.IsValid)
+            {
+                return View(account);
+            }
+
+            existingAccount.AccountId = account.AccountId;
+            existingAccount.AccountStatus = account.AccountStatus;
+            existingAccount.Role = account.Role;
+            existingAccount.PhoneNumber = account.PhoneNumber;
+            existingAccount.Password = account.Password;
+            existingAccount.Email = account.Email;
+            existingAccount.FullName = account.FullName;
+            existingAccount.Username = account.Username;
+
+            _accountRepository.UpdateAccount(existingAccount);
+
+            return RedirectToAction("Index");
+        }
+
+        // GET: Accounts/Delete/5
+        [AuthorizeRole("0")]
+        public ActionResult Delete(int? id)
+        {
+
+            return View();
+        }
+
+        // POST: Accounts/Delete/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult DeleteConfirmed(int id, IFormCollection collection)
+        {
+            var account =  _accountRepository.GetAccountById(id);
             if (account == null)
             {
                 return NotFound();
             }
 
-            return View(account);
+            _accountRepository.DeleteAccount(id);
+            return RedirectToAction("Index");
         }
 
-        // POST: Accounts/Delete/5
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
-        {
-            var account = await _context.Accounts.FindAsync(id);
-            if (account != null)
-            {
-                _context.Accounts.Remove(account);
-            }
-
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
-        }
-
-        private bool AccountExists(int id)
-        {
-            return _context.Accounts.Any(e => e.AccountId == id);
-        }
+        //private bool AccountExists(int id)
+        //{
+        //    return _context.Accounts.Any(e => e.AccountId == id);
+        //}
     }
 }

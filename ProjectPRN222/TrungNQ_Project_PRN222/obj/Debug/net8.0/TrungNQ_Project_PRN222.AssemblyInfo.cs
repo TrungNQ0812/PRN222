@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrungNQ_Project_PRN222")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e22a143fb1c575a37d134854f84b57a0b6416d04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed625cf94fb2f0eed7cfea20afd0e7f05cd7eada")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrungNQ_Project_PRN222")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrungNQ_Project_PRN222")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

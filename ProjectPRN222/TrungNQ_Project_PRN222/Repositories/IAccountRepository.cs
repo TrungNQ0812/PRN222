@@ -10,5 +10,6 @@ namespace TrungNQ_Project_PRN222.Repositories
         public void DeleteAccount(int id);
         public int GetAccountCount();
         public Account GetAccountByEmail(string email);
+        public Account GetAccountById(int? Id);
     }
 }

@@ -11,11 +11,11 @@ public partial class Account
 
     public string Password { get; set; } = null!;
 
-    public int RoleId { get; set; }
+    public int Role { get; set; }
 
     public string? PhoneNumber { get; set; }
 
-    public int AccountStatusId { get; set; }
+    public int AccountStatus { get; set; }
 
     public string Email { get; set; } = null!;
 
@@ -25,9 +25,5 @@ public partial class Account
 
     public virtual ICollection<AccountPermission> AccountPermissions { get; set; } = new List<AccountPermission>();
 
-    public virtual AccountStatus AccountStatus { get; set; } = null!;
-
     public virtual ICollection<Document> Documents { get; set; } = new List<Document>();
-
-    public virtual Role Role { get; set; } = null!;
 }

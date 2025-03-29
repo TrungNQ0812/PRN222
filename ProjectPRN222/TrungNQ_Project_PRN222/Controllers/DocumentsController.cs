@@ -1,176 +1,167 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
-using TrungNQ_Project_PRN222.DAL;
 using TrungNQ_Project_PRN222.Models;
+using TrungNQ_Project_PRN222.Repositories;
 
 namespace TrungNQ_Project_PRN222.Controllers
 {
     public class DocumentsController : Controller
     {
-        private readonly InternalDocumentManagementContext _context;
 
-        public DocumentsController(InternalDocumentManagementContext context)
+        private readonly DocumentRepository DocuRepo;
+        private readonly AccountRepository AccountRepo;
+
+
+        public DocumentsController(DocumentRepository DocumentRepository, AccountRepository AccountRepository)
         {
-            _context = context;
+            DocuRepo = DocumentRepository;
+            AccountRepo = AccountRepository;
         }
 
-        // GET: Documents
-        public async Task<IActionResult> Index()
+        // GET: DocumentsController
+        public ActionResult Index()
         {
-            var internalDocumentManagementContext = _context.Documents.Include(d => d.Account).Include(d => d.Category).Include(d => d.DocumentStatus);
-            return View(await internalDocumentManagementContext.ToListAsync());
+            var model = DocuRepo.GetAllDocumentActive();
+            return View(model);
         }
 
-        // GET: Documents/Details/5
-        public async Task<IActionResult> Details(int? id)
+        // GET: DocumentsController/Details/5
+        public ActionResult Details(int id)
         {
-            if (id == null)
+            var details = DocuRepo.GetByID(id);
+            return View(details);
+        }
+
+        // GET: DocumentsController/Create
+        public ActionResult Create()
+        {
+            var accountId = HttpContext.Session.GetString("AccountID");
+            if (string.IsNullOrEmpty(accountId))
             {
-                return NotFound();
+                return RedirectToAction("Login", "Account"); // Chuyển hướng nếu chưa đăng nhập
             }
 
-            var document = await _context.Documents
-                .Include(d => d.Account)
-                .Include(d => d.Category)
-                .Include(d => d.DocumentStatus)
-                .FirstOrDefaultAsync(m => m.DocumentId == id);
-            if (document == null)
-            {
-                return NotFound();
-            }
+            ViewBag.AccountId = int.Parse(accountId); // Truyền AccountId vào ViewBag
 
-            return View(document);
-        }
+            ViewBag.DocumentStatusId = new List<SelectListItem>
+    {
+        new SelectListItem { Value = "1", Text = "Pending" },
+        new SelectListItem { Value = "2", Text = "Approved" },
+        new SelectListItem { Value = "3", Text = "Released" },
+        new SelectListItem { Value = "4", Text = "Rejected" },
+        new SelectListItem { Value = "5", Text = "Canceled" }
+    };
 
-        // GET: Documents/Create
-        public IActionResult Create()
-        {
-            ViewData["AccountId"] = new SelectList(_context.Accounts, "AccountId", "AccountId");
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "CategoryId");
-            ViewData["DocumentStatusId"] = new SelectList(_context.DocumentStatuses, "DocumentStatusId", "DocumentStatusId");
+            ViewBag.CategoryId = new List<SelectListItem>
+    {
+        new SelectListItem { Value = "1", Text = "Public" },
+        new SelectListItem { Value = "2", Text = "Internal" },
+        new SelectListItem { Value = "3", Text = "Confidential" },
+        new SelectListItem { Value = "4", Text = "Restricted" }
+    };
+
             return View();
         }
 
-        // POST: Documents/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        // POST: DocumentsController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("DocumentId,DocumentContent,DocumentTitle,CreateAt,UpdateAt,DocumentStatusId,AccountId,CategoryId")] Document document)
+        public ActionResult Create(Document document)
         {
-            if (ModelState.IsValid)
+            var accountId = HttpContext.Session.GetString("AccountID");
+            ViewBag.AccountId = int.Parse(accountId); // Truyền AccountId vào ViewBag
+
+            ViewBag.DocumentStatusId = new List<SelectListItem>
             {
-                _context.Add(document);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                new SelectListItem { Value = "1", Text = "Pending" },
+                new SelectListItem { Value = "2", Text = "Approved" },
+                new SelectListItem { Value = "3", Text = "Released" },
+                new SelectListItem { Value = "4", Text = "Rejected" },
+                new SelectListItem { Value = "5", Text = "Canceled" }
+            };
+
+            ViewBag.CategoryId = new List<SelectListItem>
+            {
+                new SelectListItem { Value = "1", Text = "Public" },
+                new SelectListItem { Value = "2", Text = "Internal" },
+                new SelectListItem { Value = "3", Text = "Confidential" },
+                new SelectListItem { Value = "4", Text = "Restricted" }
+            };
+
+            if (string.IsNullOrEmpty(accountId))
+            {
+                ModelState.AddModelError("", "Bạn cần đăng nhập để tạo tài liệu.");
+                return View(document);
             }
-            ViewData["AccountId"] = new SelectList(_context.Accounts, "AccountId", "AccountId", document.AccountId);
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "CategoryId", document.CategoryId);
-            ViewData["DocumentStatusId"] = new SelectList(_context.DocumentStatuses, "DocumentStatusId", "DocumentStatusId", document.DocumentStatusId);
-            return View(document);
+
+            document.AccountId = int.Parse(accountId); // Gán AccountId từ session
+            document.CreateAt = DateTime.Now;
+            document.UpdateAt = DateTime.Now;
+
+            if (!ModelState.IsValid)
+            {
+                foreach (var error in ModelState.Values.SelectMany(v => v.Errors))
+                {
+                    Console.WriteLine(error.ErrorMessage);
+                }
+                return View(document);
+            }
+
+
+            try
+            {
+                DocuRepo.AddDocument(document);
+                return RedirectToAction("Index");
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError("", "Lỗi khi lưu dữ liệu: " + ex.Message);
+                return View(document);
+            }
+
         }
 
-        // GET: Documents/Edit/5
-        public async Task<IActionResult> Edit(int? id)
+        // GET: DocumentsController/Edit/5
+        public ActionResult Edit(int id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var document = await _context.Documents.FindAsync(id);
-            if (document == null)
-            {
-                return NotFound();
-            }
-            ViewData["AccountId"] = new SelectList(_context.Accounts, "AccountId", "AccountId", document.AccountId);
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "CategoryId", document.CategoryId);
-            ViewData["DocumentStatusId"] = new SelectList(_context.DocumentStatuses, "DocumentStatusId", "DocumentStatusId", document.DocumentStatusId);
-            return View(document);
+            return View();
         }
 
-        // POST: Documents/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        // POST: DocumentsController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("DocumentId,DocumentContent,DocumentTitle,CreateAt,UpdateAt,DocumentStatusId,AccountId,CategoryId")] Document document)
+        public ActionResult Edit(int id, IFormCollection collection)
         {
-            if (id != document.DocumentId)
+            try
             {
-                return NotFound();
-            }
-
-            if (ModelState.IsValid)
-            {
-                try
-                {
-                    _context.Update(document);
-                    await _context.SaveChangesAsync();
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!DocumentExists(document.DocumentId))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["AccountId"] = new SelectList(_context.Accounts, "AccountId", "AccountId", document.AccountId);
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "CategoryId", document.CategoryId);
-            ViewData["DocumentStatusId"] = new SelectList(_context.DocumentStatuses, "DocumentStatusId", "DocumentStatusId", document.DocumentStatusId);
-            return View(document);
+            catch
+            {
+                return View();
+            }
         }
 
-        // GET: Documents/Delete/5
-        public async Task<IActionResult> Delete(int? id)
+        // GET: DocumentsController/Delete/5
+        public ActionResult Delete(int id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var document = await _context.Documents
-                .Include(d => d.Account)
-                .Include(d => d.Category)
-                .Include(d => d.DocumentStatus)
-                .FirstOrDefaultAsync(m => m.DocumentId == id);
-            if (document == null)
-            {
-                return NotFound();
-            }
-
-            return View(document);
+            return View();
         }
 
-        // POST: Documents/Delete/5
-        [HttpPost, ActionName("Delete")]
+        // POST: DocumentsController/Delete/5
+        [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
+        public ActionResult Delete(int id, IFormCollection collection)
         {
-            var document = await _context.Documents.FindAsync(id);
-            if (document != null)
+            try
             {
-                _context.Documents.Remove(document);
+                return RedirectToAction(nameof(Index));
             }
-
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
-        }
-
-        private bool DocumentExists(int id)
-        {
-            return _context.Documents.Any(e => e.DocumentId == id);
+            catch
+            {
+                return View();
+            }
         }
     }
 }
