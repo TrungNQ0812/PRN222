@@ -26,6 +26,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Code\PRN222\ProjectPRN222\TrungNQ_Project_PRN222
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Code/PRN222/ProjectPRN222/TrungNQ_Project_PRN222/Views/AccountPermissions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFBlcm1pc3Npb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/PRN222/ProjectPRN222/TrungNQ_Project_PRN222/Views/AccountPermissions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFBlcm1pc3Npb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/PRN222/ProjectPRN222/TrungNQ_Project_PRN222/Views/AccountPermissions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFBlcm1pc3Npb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/PRN222/ProjectPRN222/TrungNQ_Project_PRN222/Views/AccountPermissions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFBlcm1pc3Npb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/PRN222/ProjectPRN222/TrungNQ_Project_PRN222/Views/AccountPermissions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFBlcm1pc3Npb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Code/PRN222/ProjectPRN222/TrungNQ_Project_PRN222/Views/Accounts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -122,8 +142,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Code/PRN222/ProjectPRN222/TrungNQ_Project_PRN222/Views/Permission/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWlzc2lvblxJbmRleC5jc2h0bWw=
+[D:/Code/PRN222/ProjectPRN222/TrungNQ_Project_PRN222/Views/Permissions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWlzc2lvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/PRN222/ProjectPRN222/TrungNQ_Project_PRN222/Views/Permissions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWlzc2lvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/PRN222/ProjectPRN222/TrungNQ_Project_PRN222/Views/Permissions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWlzc2lvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/PRN222/ProjectPRN222/TrungNQ_Project_PRN222/Views/Permissions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWlzc2lvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/PRN222/ProjectPRN222/TrungNQ_Project_PRN222/Views/Permissions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWlzc2lvbnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Code/PRN222/ProjectPRN222/TrungNQ_Project_PRN222/Views/Shared/Error.cshtml]

@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.Identity.Client;
 using TrungNQ_Project_PRN222.Models;
 using TrungNQ_Project_PRN222.Repositories;
 
@@ -11,12 +12,16 @@ namespace TrungNQ_Project_PRN222.Controllers
 
         private readonly DocumentRepository DocuRepo;
         private readonly AccountRepository AccountRepo;
+        private readonly DocumentStatusRepository DSRepo;
+        private readonly CategoryRepository cateRepo;
 
-
-        public DocumentsController(DocumentRepository DocumentRepository, AccountRepository AccountRepository)
+        public DocumentsController(DocumentRepository DocumentRepository, AccountRepository AccountRepository,
+            DocumentStatusRepository DocumentStatusRepository, CategoryRepository CategoryRepository)
         {
             DocuRepo = DocumentRepository;
             AccountRepo = AccountRepository;
+            DSRepo = DocumentStatusRepository;
+            cateRepo = CategoryRepository;
         }
 
         // GET: DocumentsController
@@ -37,6 +42,7 @@ namespace TrungNQ_Project_PRN222.Controllers
         public ActionResult Create()
         {
             var accountId = HttpContext.Session.GetString("AccountID");
+            
             if (string.IsNullOrEmpty(accountId))
             {
                 return RedirectToAction("Login", "Account"); // Chuyển hướng nếu chưa đăng nhập
@@ -44,22 +50,17 @@ namespace TrungNQ_Project_PRN222.Controllers
 
             ViewBag.AccountId = int.Parse(accountId); // Truyền AccountId vào ViewBag
 
-            ViewBag.DocumentStatusId = new List<SelectListItem>
-    {
-        new SelectListItem { Value = "1", Text = "Pending" },
-        new SelectListItem { Value = "2", Text = "Approved" },
-        new SelectListItem { Value = "3", Text = "Released" },
-        new SelectListItem { Value = "4", Text = "Rejected" },
-        new SelectListItem { Value = "5", Text = "Canceled" }
-    };
+            ViewBag.DocumentStatusId = DSRepo.GetAllDocumentStatus().Select(ds => new SelectListItem
+            {
+                Value = ds.DocumentStatusId.ToString(),
+                Text = ds.DocumentStatusName
+            }).ToList();
 
-            ViewBag.CategoryId = new List<SelectListItem>
-    {
-        new SelectListItem { Value = "1", Text = "Public" },
-        new SelectListItem { Value = "2", Text = "Internal" },
-        new SelectListItem { Value = "3", Text = "Confidential" },
-        new SelectListItem { Value = "4", Text = "Restricted" }
-    };
+            ViewBag.CategoryId = cateRepo.loadAllCategory().Select(ds => new SelectListItem
+            {
+                Value = ds.CategoryId.ToString(),
+                Text = ds.CategoryName
+            }).ToList();
 
             return View();
         }
@@ -69,25 +70,21 @@ namespace TrungNQ_Project_PRN222.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create(Document document)
         {
+            //var DocumentList = 
             var accountId = HttpContext.Session.GetString("AccountID");
             ViewBag.AccountId = int.Parse(accountId); // Truyền AccountId vào ViewBag
 
-            ViewBag.DocumentStatusId = new List<SelectListItem>
+            ViewBag.DocumentStatusId = DSRepo.GetAllDocumentStatus().Select(ds => new SelectListItem
             {
-                new SelectListItem { Value = "1", Text = "Pending" },
-                new SelectListItem { Value = "2", Text = "Approved" },
-                new SelectListItem { Value = "3", Text = "Released" },
-                new SelectListItem { Value = "4", Text = "Rejected" },
-                new SelectListItem { Value = "5", Text = "Canceled" }
-            };
+                Value = ds.DocumentStatusId.ToString(),
+                Text = ds.DocumentStatusName
+            }).ToList();
 
-            ViewBag.CategoryId = new List<SelectListItem>
+            ViewBag.CategoryId = cateRepo.loadAllCategory().Select(ds => new SelectListItem
             {
-                new SelectListItem { Value = "1", Text = "Public" },
-                new SelectListItem { Value = "2", Text = "Internal" },
-                new SelectListItem { Value = "3", Text = "Confidential" },
-                new SelectListItem { Value = "4", Text = "Restricted" }
-            };
+                Value = ds.CategoryId.ToString(),
+                Text = ds.CategoryName
+            }).ToList();
 
             if (string.IsNullOrEmpty(accountId))
             {

@@ -20,7 +20,7 @@ CREATE TABLE Account (
     AccountId INT PRIMARY KEY IDENTITY(1,1),
     Username NVARCHAR(100) NOT NULL,
     Password NVARCHAR(255) NOT NULL,
-    Role INT NOT NULL CHECK (Role BETWEEN 1 AND 3),  -- 1: Manager, 2: Leader, 3: Staff
+    Role INT NOT NULL CHECK (Role BETWEEN 1 AND 5),  -- 1: Manager, 2: Leader, 3: Staff, 4: Fresher, 5: Intern
     PhoneNumber NVARCHAR(15),
     AccountStatus INT NOT NULL CHECK (AccountStatus IN (0,1)), -- 0: Inactive, 1: Active
     Email NVARCHAR(255) NOT NULL,
@@ -74,6 +74,11 @@ CREATE TABLE AccountPermission (
     FOREIGN KEY (AccountId) REFERENCES Account(AccountId) ON DELETE CASCADE,
     FOREIGN KEY (PermissionId) REFERENCES Permission(PermissionId) ON DELETE CASCADE
 );
+
+-- Insert giá trị 
+Insert into AccountPermission(AccountId, PermissionId) values 
+(1, 1),
+(2, 2);
 
 
 -- Insert giá trị hợp lệ

@@ -7,7 +7,7 @@
 <h1>Index</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="btn btn-success small">Create New</a>
 </p>
 <table class="table">
     <thead>
@@ -25,9 +25,9 @@
                 @Html.DisplayFor(modelItem => item.DocumentStatusName)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.DocumentStatusId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.DocumentStatusId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.DocumentStatusId">Delete</a>
+                    <a asp-action="Edit" asp-route-id="@item.DocumentStatusId" class="btn btn-success small">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.DocumentStatusId" class="btn btn-warning small">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.DocumentStatusId" class="btn btn-danger small">Delete</a>
             </td>
         </tr>
 }

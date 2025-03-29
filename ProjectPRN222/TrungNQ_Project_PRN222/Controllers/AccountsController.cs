@@ -46,7 +46,6 @@ namespace TrungNQ_Project_PRN222.Controllers
         }
 
         // GET: Accounts/Create
-        [AuthorizeRole("0")]
         public ActionResult Create()
         {
 
@@ -56,7 +55,6 @@ namespace TrungNQ_Project_PRN222.Controllers
         // POST: Accounts/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        [AuthorizeRole("0")]
         public ActionResult Create(Account account)
         {
             
@@ -95,7 +93,7 @@ namespace TrungNQ_Project_PRN222.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        [AuthorizeRole("0")]
+        
         public ActionResult Edit(int id, Account account)
         {
             if (id != account.AccountId)
@@ -131,7 +129,6 @@ namespace TrungNQ_Project_PRN222.Controllers
         }
 
         // GET: Accounts/Delete/5
-        [AuthorizeRole("0")]
         public ActionResult Delete(int? id)
         {
 

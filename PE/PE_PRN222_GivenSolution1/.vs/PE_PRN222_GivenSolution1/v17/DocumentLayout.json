@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Code\\PRN222\\PE\\PE_PRN222_GivenSolution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55EBC301-016F-420D-9308-377D0B3DC8ED}|Project2\\Project2.csproj|D:\\Code\\PRN222\\PE\\PE_PRN222_GivenSolution1\\project2\\dal\\librarymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55EBC301-016F-420D-9308-377D0B3DC8ED}|Project2\\Project2.csproj|d:\\code\\prn222\\pe\\pe_prn222_givensolution1\\project2\\dal\\librarymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55EBC301-016F-420D-9308-377D0B3DC8ED}|Project2\\Project2.csproj|solutionrelative:project2\\dal\\librarymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55EBC301-016F-420D-9308-377D0B3DC8ED}|Project2\\Project2.csproj|d:\\code\\prn222\\pe\\pe_prn222_givensolution1\\project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55EBC301-016F-420D-9308-377D0B3DC8ED}|Project2\\Project2.csproj|D:\\Code\\PRN222\\PE\\PE_PRN222_GivenSolution1\\project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55EBC301-016F-420D-9308-377D0B3DC8ED}|Project2\\Project2.csproj|solutionrelative:project2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 180,
+          "SelectedChildIndex": 177,
           "Children": [
             {
               "$type": "Bookmark",
@@ -518,19 +518,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:40:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:43:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:42:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:41:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
@@ -757,10 +749,6 @@
               "Name": "ST:32:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:39:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LibraryManagementContext.cs",
@@ -768,14 +756,18 @@
               "RelativeDocumentMoniker": "Project2\\DAL\\LibraryManagementContext.cs",
               "ToolTip": "D:\\Code\\PRN222\\PE\\PE_PRN222_GivenSolution1\\Project2\\DAL\\LibraryManagementContext.cs",
               "RelativeToolTip": "Project2\\DAL\\LibraryManagementContext.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAswCwAAAAgAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwCcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T06:14:19.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:36:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:40:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:41:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
@@ -787,8 +779,7 @@
               "RelativeToolTip": "Project2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T09:34:24.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T09:34:24.788Z"
             },
             {
               "$type": "Document",

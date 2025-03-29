@@ -3,11 +3,171 @@
   "WorkspaceRootPath": "D:\\Code\\PRN222\\ProjectPRN222\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\documents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\documents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\accountpermissions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\accountpermissions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\documentstatus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\documentstatus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\permissions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\permissions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\permissions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\permissions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\permissions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\permissions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\permissions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\permissions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\permissions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\permissions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\accountpermissions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\accountpermissions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\accountpermissions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\accountpermissions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\accountpermissions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\accountpermissions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\accountpermissions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\accountpermissions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\documents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\documents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\documents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\documents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\documents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\documents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\documentstatus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\documentstatus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\documentstatus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\documentstatus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\documentstatus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\documentstatus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\documentstatus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\documentstatus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\documents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\documents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\controllers\\accountpermissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\controllers\\accountpermissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\models\\accountpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\models\\accountpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\controllers\\documentstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\controllers\\documentstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\repositories\\documentstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\repositories\\documentstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\repositories\\idocumentstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\repositories\\idocumentstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\repositories\\idocumentstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +175,7 @@
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\repositories\\ipermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\repositories\\ipermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\repositories\\ipermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,59 +183,23 @@
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\documents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\documents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\permission\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\permission\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\documents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\documents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\repositories\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\repositories\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\repositories\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\repositories\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\repositories\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\filter\\authorizeroleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\filter\\authorizeroleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\filter\\authorizeroleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\repositories\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\repositories\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\repositories\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -83,92 +207,36 @@
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\controllers\\documentstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\controllers\\documentstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\models\\accountpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\models\\accountpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\documents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\documents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\documents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\documents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\documents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\documents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|d:\\code\\prn222\\projectprn222\\trungnq_project_prn222\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\shared\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7F62AE69-7574-425C-A121-2169BDE7D26C}|TrungNQ_Project_PRN222\\TrungNQ_Project_PRN222.csproj|solutionrelative:trungnq_project_prn222\\views\\shared\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\PRN222\\ProjectPRN222\\trungnq_project_prn222\\views\\shared\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:trungnq_project_prn222\\views\\shared\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -178,7 +246,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 126,
-          "SelectedChildIndex": 177,
+          "SelectedChildIndex": 182,
           "Children": [
             {
               "$type": "Bookmark",
@@ -890,197 +958,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DocumentStatusRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\DocumentStatusRepository.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\DocumentStatusRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\DocumentStatusRepository.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\DocumentStatusRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T23:31:43.212Z",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Permissions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Permissions\\Delete.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Permissions\\Delete.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Permissions\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T02:15:04.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IDocumentStatusRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IDocumentStatusRepository.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\IDocumentStatusRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IDocumentStatusRepository.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\IDocumentStatusRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T23:31:25.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T23:28:34.358Z",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Permissions\\Details.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Permissions\\Details.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Permissions\\Details.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Permissions\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T02:14:54.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IAccountRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IAccountRepository.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\IAccountRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IAccountRepository.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\IAccountRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T18:22:58.419Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Permissions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Permissions\\Edit.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Permissions\\Edit.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Permissions\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T02:14:44.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Permissions\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Permissions\\Index.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Permissions\\Index.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Permissions\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T02:14:26.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\ICategoryRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\ICategoryRepository.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T06:03:51.514Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Index.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Index.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T02:10:08.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Documents\\Index.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Index.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Documents\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T20:19:37.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T20:14:50.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IPermissionRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IPermissionRepository.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\IPermissionRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IPermissionRepository.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\IPermissionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T22:20:36.076Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Index.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Index.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T01:19:24.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IRoleRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IRoleRepository.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\IRoleRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IRoleRepository.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\IRoleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T06:04:31.488Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Accounts\\Index.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Accounts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T20:14:27.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Create.cshtml",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Documents\\Create.cshtml",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Create.cshtml",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Documents\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABIAAAA",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Permissions\\Create.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Permissions\\Create.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Permissions\\Create.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Permissions\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T20:19:12.548Z",
+              "WhenOpened": "2025-03-29T02:15:17.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Home\\AccessDenied.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Home\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T02:15:35.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Permission\\Index.cshtml",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Permission\\Index.cshtml",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Permission\\Index.cshtml",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Permission\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T22:34:19.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DocumentRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\DocumentRepository.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\DocumentRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\DocumentRepository.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\DocumentRepository.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAywBcAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T20:21:28.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AuthorizeRoleAttribute.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Filter\\AuthorizeRoleAttribute.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Filter\\AuthorizeRoleAttribute.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Filter\\AuthorizeRoleAttribute.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Filter\\AuthorizeRoleAttribute.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T21:34:01.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IDocumentRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IDocumentRepository.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\IDocumentRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IDocumentRepository.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\IDocumentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T06:03:05.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Home\\Login.cshtml",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Home\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBgAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T06:18:07.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Delete.cshtml",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Documents\\Delete.cshtml",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Delete.cshtml",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Documents\\Delete.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T20:19:48.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PermissionRepository.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\PermissionRepository.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\PermissionRepository.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\PermissionRepository.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\PermissionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T22:20:50.266Z",
+              "WhenOpened": "2025-03-29T02:15:37.5Z",
               "EditorCaption": ""
             },
             {
@@ -1093,150 +1122,331 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAqwEwAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T06:17:23.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "DocumentsController.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\DocumentsController.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Controllers\\DocumentsController.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\DocumentsController.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Controllers\\DocumentsController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAkwEgAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T20:20:26.32Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Edit.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Edit.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T02:13:46.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AccountsController.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\AccountsController.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Controllers\\AccountsController.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\AccountsController.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Controllers\\AccountsController.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAuwHgAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T17:57:18.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\appsettings.json",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\appsettings.json",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\appsettings.json",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-27T05:30:59.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PermissionController.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\PermissionController.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Controllers\\PermissionController.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\PermissionController.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Controllers\\PermissionController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAA1wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T21:43:41.676Z",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBgAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T06:18:07.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "DocumentStatusController.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\DocumentStatusController.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Controllers\\DocumentStatusController.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\DocumentStatusController.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Controllers\\DocumentStatusController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAywAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T18:54:18.788Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Create.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Create.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Create.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T02:11:12.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Controllers\\CategoriesController.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAIwFEAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T18:55:04.173Z",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Delete.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Delete.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T02:10:49.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Create.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Documents\\Create.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Create.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Documents\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T20:19:12.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Documents\\Delete.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Delete.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Documents\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T20:19:48.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Documents\\Edit.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Edit.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Documents\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T20:19:44.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Details.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Details.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Details.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T01:14:51.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Delete.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Delete.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T02:04:35.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Create.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Create.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Create.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\AccountPermissions\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T01:08:27.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Details.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Details.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Details.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T02:10:42.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Edit.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Edit.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\DocumentStatus\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T02:10:30.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Create.cshtml",
               "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Accounts\\Create.cshtml",
               "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Create.cshtml",
               "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Accounts\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAqAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-28T09:08:54.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Models\\Account.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Models\\Account.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Models\\Account.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T17:49:23.334Z",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Accounts\\Delete.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Delete.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Accounts\\Delete.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T20:13:50.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Details.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Accounts\\Details.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Details.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Accounts\\Details.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADkAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T20:13:02.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Accounts\\Edit.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Edit.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Accounts\\Edit.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwD0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T20:13:33.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Details.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Documents\\Details.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Details.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Documents\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T20:19:46.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DocumentsController.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\DocumentsController.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Controllers\\DocumentsController.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\DocumentsController.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Controllers\\DocumentsController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAswFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:20:26.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AccountPermissionsController.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\AccountPermissionsController.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Controllers\\AccountPermissionsController.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\AccountPermissionsController.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Controllers\\AccountPermissionsController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:06:31.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\appsettings.json",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\appsettings.json",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\appsettings.json",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T05:30:59.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DocumentStatusRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\DocumentStatusRepository.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\DocumentStatusRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\DocumentStatusRepository.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\DocumentStatusRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:31:43.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Program.cs",
               "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Program.cs",
               "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Program.cs",
               "RelativeToolTip": "TrungNQ_Project_PRN222\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T06:16:38.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Document.cs",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Models\\Document.cs",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Models\\Document.cs",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Models\\Document.cs",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Models\\Document.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "DocumentIndex": 43,
+              "Title": "IPermissionRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IPermissionRepository.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\IPermissionRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IPermissionRepository.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\IPermissionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T21:09:31.265Z",
+              "WhenOpened": "2025-03-28T22:20:36.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Models\\Account.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Models\\Account.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:49:23.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:28:34.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "AccountPermission.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Models\\AccountPermission.cs",
               "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Models\\AccountPermission.cs",
@@ -1249,7 +1459,191 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 38,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAA/wIIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:57:18.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswCAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T13:20:15.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PermissionsController.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\PermissionsController.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Controllers\\PermissionsController.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\PermissionsController.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Controllers\\PermissionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:04:29.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DocumentStatusController.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\DocumentStatusController.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Controllers\\DocumentStatusController.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\DocumentStatusController.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Controllers\\DocumentStatusController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAywAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:54:18.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:03:51.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\IAccountRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T18:22:58.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IDocumentStatusRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IDocumentStatusRepository.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\IDocumentStatusRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IDocumentStatusRepository.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\IDocumentStatusRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:31:25.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\IRoleRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IRoleRepository.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\IRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:04:31.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DocumentRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\DocumentRepository.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\DocumentRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\DocumentRepository.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\DocumentRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAywBcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:21:28.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AuthorizeRoleAttribute.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Filter\\AuthorizeRoleAttribute.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Filter\\AuthorizeRoleAttribute.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Filter\\AuthorizeRoleAttribute.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Filter\\AuthorizeRoleAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:34:01.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IDocumentRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IDocumentRepository.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\IDocumentRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\IDocumentRepository.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\IDocumentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:03:05.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PermissionRepository.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\PermissionRepository.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\PermissionRepository.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\PermissionRepository.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\PermissionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T22:20:50.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwEwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:17:23.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwFEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:55:04.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Models\\Document.cs",
+              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Models\\Document.cs",
+              "RelativeToolTip": "TrungNQ_Project_PRN222\\Models\\Document.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:09:31.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
               "Title": "AccountRepository.cs",
               "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Repositories\\AccountRepository.cs",
               "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Repositories\\AccountRepository.cs",
@@ -1257,51 +1651,11 @@
               "RelativeToolTip": "TrungNQ_Project_PRN222\\Repositories\\AccountRepository.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAEwDcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T07:01:04.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T07:01:04.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Index.cshtml",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Documents\\Index.cshtml",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Index.cshtml",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Documents\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T20:19:37.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Details.cshtml",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Documents\\Details.cshtml",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Details.cshtml",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Documents\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T20:19:46.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Edit.cshtml",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Documents\\Edit.cshtml",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Documents\\Edit.cshtml",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Documents\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T20:19:44.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 54,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Categories\\Edit.cshtml",
               "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Categories\\Edit.cshtml",
@@ -1309,12 +1663,11 @@
               "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Categories\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T20:14:48.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T20:14:48.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 55,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Categories\\Details.cshtml",
               "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Categories\\Details.cshtml",
@@ -1322,12 +1675,11 @@
               "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Categories\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T20:14:47.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T20:14:47.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 56,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Categories\\Delete.cshtml",
               "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Categories\\Delete.cshtml",
@@ -1335,12 +1687,11 @@
               "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Categories\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T20:14:44.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T20:14:44.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 57,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Categories\\Create.cshtml",
               "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Categories\\Create.cshtml",
@@ -1348,90 +1699,11 @@
               "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Categories\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T20:14:41.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T20:14:41.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Index.cshtml",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Accounts\\Index.cshtml",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Index.cshtml",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Accounts\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T20:14:27.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Delete.cshtml",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Accounts\\Delete.cshtml",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Delete.cshtml",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Accounts\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T20:13:50.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Edit.cshtml",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Accounts\\Edit.cshtml",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Edit.cshtml",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Accounts\\Edit.cshtml",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAYwCwAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T20:13:33.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Categories\\Index.cshtml",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Categories\\Index.cshtml",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Categories\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T20:14:50.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Details.cshtml",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Accounts\\Details.cshtml",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Accounts\\Details.cshtml",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Accounts\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T20:13:02.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TrungNQ_Project_PRN222\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAowCMAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T13:20:15.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 58,
               "Title": "AccessDenied.cshtml",
               "DocumentMoniker": "D:\\Code\\PRN222\\ProjectPRN222\\TrungNQ_Project_PRN222\\Views\\Shared\\AccessDenied.cshtml",
               "RelativeDocumentMoniker": "TrungNQ_Project_PRN222\\Views\\Shared\\AccessDenied.cshtml",

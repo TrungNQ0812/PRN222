@@ -21,6 +21,10 @@ builder.Services.AddScoped<IAccountRepository, AccountRepository>();
 builder.Services.AddScoped<AccountRepository>();
 builder.Services.AddScoped<IDocumentRepository, DocumentRepository>();
 builder.Services.AddScoped<DocumentRepository>();
+builder.Services.AddScoped<IDocumentStatusRepository, DocumentStatusRepository>();
+builder.Services.AddScoped<DocumentStatusRepository>();
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<CategoryRepository>();
 builder.Services.AddControllersWithViews();
 var app = builder.Build();
 
